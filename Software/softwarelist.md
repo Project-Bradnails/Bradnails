@@ -4,7 +4,7 @@ GAMES
 
 EMULATORS
 
-[RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: ExtraNotes.txt)
+[RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [ExtraNotes.txt](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.txt))
 
 ROMS
 
