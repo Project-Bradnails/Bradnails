@@ -1,5 +1,5 @@
 # Bradnails1
---Info--
+## Info
 
 -This repository is a collection of games made primarily for school computers that circumvent blocks
 
