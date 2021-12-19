@@ -1,4 +1,4 @@
-# Bradnails1
+# Bradnails
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful.**
 
