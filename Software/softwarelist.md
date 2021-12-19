@@ -4,7 +4,7 @@ GAMES
 
 EMULATORS
 
-[RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (Note: Load the core for the console your game is on first, then load the game!)
+[RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: ExtraNotes.txt)
 
 ROMS
 
