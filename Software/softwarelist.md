@@ -16,5 +16,7 @@
 - [Pokemon Sapphire](https://drive.google.com/file/d/1t2vSCd1jZdiSY8feJ-uNBXmkAOJg_2u0/view?usp=sharing)
 - [Pokemon Black](https://drive.google.com/file/d/1HC-iX9J0zzIX1kkK13VDmHcHtDw3tMNv/view?usp=sharing)
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
+- [New Super Mario Bros](https://drive.google.com/file/d/1yryAUdziOflsO3k4-rpLt_5AeFndswg2/view?usp=sharing)
+- [Super Mario World](https://drive.google.com/file/d/1BFeedRUiYV1WI_ZJ4YswuUYGz0nhz7lW/view?usp=sharing)
 
 # APPS
