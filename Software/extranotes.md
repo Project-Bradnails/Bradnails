@@ -6,4 +6,4 @@ Extra notes for software, in case you might need them.
 - If you are not getting any sound output, in RetroArch go to settings>audio>output and change the output to dsound
 
 ### DOLPHIN
-- Here is a tutorial to actually use Dolphin(https://www.youtube.com/watch?v=uj2DyAD8_pg)
+- Here is a tutorial to actually use Dolphin: https://www.youtube.com/watch?v=uj2DyAD8_pg
