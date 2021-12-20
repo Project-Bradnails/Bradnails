@@ -29,4 +29,4 @@ Extra notes for software, in case you might need them.
 
 - After that just load up the game and wait for the queue and have fun!
 
--By the way if you ask a stupid question that's mentioned in this guide please kill yourself.
+- By the way if you ask a stupid question that's mentioned in this guide please kill yourself.
