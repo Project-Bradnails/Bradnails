@@ -21,3 +21,4 @@
 - [Super Mario World](https://drive.google.com/file/d/1BFeedRUiYV1WI_ZJ4YswuUYGz0nhz7lW/view?usp=sharing)
 
 # APPS
+[7z/7Zip](https://portableapps.com/downloading/?a=7-ZipPortable&n=7-Zip%20Portable&s=s&p=&d=pa&f=7-ZipPortable_21.06.paf.exe)
