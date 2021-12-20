@@ -6,7 +6,7 @@
 - [Geomtery Dash](https://drive.google.com/file/d/1pi1jstxevRrkCO3rdd-3LpPvLPVei30g/view?usp=sharing)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
 - [Hollow Knight](https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ)
-- 
+- [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
 # EMULATORS
 
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
