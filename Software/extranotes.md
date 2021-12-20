@@ -23,3 +23,7 @@ Extra notes for software, in case you might need them.
 
 
 - Once you open it, log in, connect your Steam, Epic Games, and Origin. To make an account go to the [NVIDIA account creation](https://login.nvgs.nvidia.com/v1/login/identifier?key=eyJhbGciOiJIUzI1NiJ9.eyJzZSI6Im9qN0ciLCJ0b2tlbklkIjoiMzE4NTM2MDUwNDczNDM3MTY3Iiwib3QiOiIzMTg1MzYwNTA1ODg3NzkxMDMiLCJpYXQiOjE2NDAwMzg1MDAsImp0aSI6IjhlZTNlODRkLTMzNzEtNGJiYi1hNjYzLTAzZDY0M2YyZTE4OSJ9.hQtKecJqwcUQKHYVWQDFKuvoG007O1dxk-T-TzGOolo&client_id=310670192232366513&prompt=default&context=initial&theme=Noir&preferred_nvidia=true&locale=en-US)/ log in.
+
+- After that just load up the game and wait for the queue and have fun!
+
+-By the way if you ask a stupid question that's mentioned in this guide please kill yourself.
