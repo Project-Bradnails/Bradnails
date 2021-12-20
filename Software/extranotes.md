@@ -7,3 +7,5 @@ Extra notes for software, in case you might need them.
 
 ### DOLPHIN
 [Here is a tutorial to actually use Dolphin](https://www.youtube.com/watch?v=uj2DyAD8_pg)
+
+### 7ZIP
