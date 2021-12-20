@@ -6,8 +6,8 @@
 - [Geomtery Dash](https://drive.google.com/file/d/1pi1jstxevRrkCO3rdd-3LpPvLPVei30g/view?usp=sharing)
 # EMULATORS
 
-- [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
-- [Dolphin for Wii and Gameboy](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
+- [RETROARCH for all consoles up to PS2](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+- [Dolphin for Wii and Gamecube](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
 
 # ROMS
 
