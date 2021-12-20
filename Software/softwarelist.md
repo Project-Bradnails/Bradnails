@@ -26,4 +26,4 @@
 
 # APPS
 [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)
-[GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) SEE: [extranotes.md]
+[GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (SEE: [extranotes.md]
