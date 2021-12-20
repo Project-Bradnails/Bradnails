@@ -75,5 +75,4 @@ If you want to take an extra step in being safe, delete both your web hisotry an
 
 ## About The Devs
 -KushKonsumer, as the name states, enjoys connsuming copious amounts of kush. In their free time, they like to play video games and consume kush.
-
-- Spoodermoon731, as the name also states, is a big Spider-Man fan. besides replaying the PS4 SPider-Man game, he enjoys doing computer breakdown and mainframe accessing.
+- Spoodermoon731, as the name also states, is a big Spider-Man fan. besides replaying the PS4 Spider-Man game, he enjoys doing computer breakdown and mainframe accessing.
