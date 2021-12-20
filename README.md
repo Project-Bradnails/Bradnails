@@ -74,4 +74,4 @@ If you want to save game progress, you can keep your saves on a flash drive or s
 If you want to take an extra step in being safe, delete both your web hisotry and your downloaded file history.
 
 ## About The Devs
--KushKonsumer, as the name states, enjoys konsuming kopious amounts of kush. In their free time, they like to play video games and konsume kush.
+-KushKonsumer, as the name states, enjoys connsuming copious amounts of kush. In their free time, they like to play video games and consume kush.
