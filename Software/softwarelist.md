@@ -4,7 +4,7 @@
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
 - [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
 - [Geomtery Dash](https://drive.google.com/file/d/1pi1jstxevRrkCO3rdd-3LpPvLPVei30g/view?usp=sharing)
-- [Sonic Mania + Encore DLC](https://drive.google.com/file/d/16YrwRK8JUk9uyGHRfMFxjLbH5JIw2EeT/view?usp=sharing)
+- [Sonic Mania + Encore DLC](https://drive.google.com/file/d/1ekBMaTDSVCqAnZNLHZCERiqmDMyBXmOV/view?usp=sharing)
 # EMULATORS
 
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
