@@ -5,6 +5,8 @@
 - [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
 - [Geomtery Dash](https://drive.google.com/file/d/1pi1jstxevRrkCO3rdd-3LpPvLPVei30g/view?usp=sharing)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
+- [Hollow Knight](https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ)
+- 
 # EMULATORS
 
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
@@ -19,10 +21,18 @@
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
 - [New Super Mario Bros](https://drive.google.com/file/d/1yryAUdziOflsO3k4-rpLt_5AeFndswg2/view?usp=sharing)
 - [Super Mario World](https://drive.google.com/file/d/1BFeedRUiYV1WI_ZJ4YswuUYGz0nhz7lW/view?usp=sharing)
+- [Kirby's Epic Yarn](https://drive.google.com/file/d/1_FCRghMZLUGl6DxfSg-zS6FZRakE7SMz/view?usp=sharing)
+- [Kirby's Return to Dream Land](https://drive.google.com/file/d/1YID9HW822ZlliKHbYrjJ85bnFQnVHImn/view?usp=sharing)
+- [Lego Harry Potter](https://drive.google.com/file/d/16tVDOHjue2kJdQWYdxkavzTYF7qzac5S/view?usp=sharing)
 
 # DOLPHIN ROMS
 - [Super Smash Bros Melee](https://drive.google.com/file/d/1lGETJha443nfh6tv271QnpcyblS-C6ks/view?usp=sharing)
+- [Super Smash Bros Brawl](https://drive.google.com/file/d/1P4GnnSBFezrEBfRBAWD6QlSpum13Oz5d/view?usp=sharing)
 - [Lego Star Wars II](https://drive.google.com/file/d/1X1_UMTvhNXS0NTw1aP6O2s5xeO4JnECq/view?usp=sharing)
+- [Lego Star Wars III](https://drive.google.com/file/d/1JYebQhA1TsWPOcUEp7-Mq82rcKHZNTiV/view?usp=sharing)
+- [Super Mario Galaxy](https://drive.google.com/file/d/1IWJwzpC0-i4K2uA59Wlc4tvmCiGEOX5L/view?usp=sharing)
+- [Animal Crossing: City Folk](https://drive.google.com/file/d/1mfn0oCOgJls_ZXJnFlIdtRsj1-G3p9IK/view?usp=sharing)
+- 
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)
