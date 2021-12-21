@@ -1,4 +1,4 @@
-![](header.png?raw=true)
+
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful.**
 
