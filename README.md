@@ -33,6 +33,10 @@ new desktop button. This way if staff is trying to check your computer, they lik
 
 Nope, don't worry. Our team of 5 checks everything to make sure it's functional before uploading to the software list.
 
+- *Where is the Google drive?*
+
+Click on the game title that is blue, as it is a hyperlink which will then take you to the Google drive.
+
 - *My computer says it isn't a Microsoft Store Verified App?*
 
 Disable your Internet, that will disable SmartScreen, the system used to force the Microsoft Store screen.
