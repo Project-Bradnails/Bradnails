@@ -49,7 +49,7 @@
 # MOVIES
 NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be very large.
 - [21 Jump Street](https://drive.google.com/file/d/0B-uFeCO4yCFIV09lcEdSNHptT2c/view?usp=sharing&resourcekey=0-dw10bsyEZaC-069eF9QTAw)
-- [A Dog's Purpose (2017](https://drive.google.com/file/d/0B-uFeCO4yCFISTFmNlE3akNDbU0/view?usp=sharing&resourcekey=0-RNIEk2RiGAR76Qv_ACNU8g)
+- [A Dog's Purpose (2017)](https://drive.google.com/file/d/0B-uFeCO4yCFISTFmNlE3akNDbU0/view?usp=sharing&resourcekey=0-RNIEk2RiGAR76Qv_ACNU8g)
 - [Alien (1979)](https://drive.google.com/file/d/0B95Tai8Smi2wZXNFQ29vT19RVkE/view?usp=sharing&resourcekey=0-PmCtCEW7-_z7GmU8JvAheg)
 - [Alien Vs. Predator (2004)](https://drive.google.com/file/d/0Bxpj_oRibJ5kZTlmNTIzRjU4ekU/view?usp=sharing&resourcekey=0-kBSIucVemO3llLrafH-XRQ)
 - [Alien Vs. Predator Requiem (2007)](https://drive.google.com/file/d/0B4MqvPThrYNjZE9sX2wwbkRZbXc/view?usp=sharing&resourcekey=0-6UabtX9aRzTD-5F1bOF9sw)
