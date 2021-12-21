@@ -47,7 +47,7 @@
 - [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) SEE: [extranotes.md](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/extranotes.md)
 
 # MOVIES
-NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be very large.
+NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be a very large file.
 - [21 Jump Street](https://drive.google.com/file/d/0B-uFeCO4yCFIV09lcEdSNHptT2c/view?usp=sharing&resourcekey=0-dw10bsyEZaC-069eF9QTAw)
 - [A Dog's Purpose (2017)](https://drive.google.com/file/d/0B-uFeCO4yCFISTFmNlE3akNDbU0/view?usp=sharing&resourcekey=0-RNIEk2RiGAR76Qv_ACNU8g)
 - [Alien (1979)](https://drive.google.com/file/d/0B95Tai8Smi2wZXNFQ29vT19RVkE/view?usp=sharing&resourcekey=0-PmCtCEW7-_z7GmU8JvAheg)
