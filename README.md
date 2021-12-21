@@ -8,7 +8,7 @@
 
 *Just so you know, we can't add everything. Not everything runs on a school computer*
 
-### This repository is made so you can download and run games on a school laptop, if you couldn't already tell.
+### This repository is the definitive archive for unblocked school content. You can find games, movies, apps and more, all on the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/softwarelist.md) page.
 This is mainly made for Windows 10 and above machines. Stuff like a Chromebook we can't gurantee.
 
 ## Installation
