@@ -20,6 +20,15 @@ This is mainly made for Windows 10 and above machines. Stuff like a Chromebook w
 6. Disable your internet
 7. Open the .exe
 8. If prompted with a Smart Screen box, click run. Game will still be alright.
+## Emulators and ROMs
+1. Download the emulator that you need depending on console
+2. Download your ROM
+3. Add your ROM to a ROMs folder
+4. Disable your internet
+5. Open the emulator
+6a. Set the Games path to your ROMs folder
+6b. For Retroarch, you can also load your game by clicking File>Load Content and clicking on your game file
+7. Click on the game's icon or click run
 
 ## Tips
 - We VERY heavily recommend to always run your games when you have disconnected your internet. This can save both you and us a lot of issues later down the road.
