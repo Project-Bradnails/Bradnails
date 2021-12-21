@@ -15,9 +15,8 @@
 - [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 # EMULATORS
 
-- [RETROARCH (for all consoles)](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
-- [Dolphin (for Wii and Gamecube)](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
-- [Redream (for Dreamcast)](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
+- [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+- [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
 
 # ROMs
 ## Nintendo
@@ -46,3 +45,15 @@
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)
 - [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) SEE: [extranotes.md](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/extranotes.md)
+
+# MOVIES
+NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be very large.
+- [21 Jump Street](https://drive.google.com/file/d/0B-uFeCO4yCFIV09lcEdSNHptT2c/view?usp=sharing&resourcekey=0-dw10bsyEZaC-069eF9QTAw)
+- [A Dog's Purpose (2017](https://drive.google.com/file/d/0B-uFeCO4yCFISTFmNlE3akNDbU0/view?usp=sharing&resourcekey=0-RNIEk2RiGAR76Qv_ACNU8g)
+- [Alien (1979)](https://drive.google.com/file/d/0B95Tai8Smi2wZXNFQ29vT19RVkE/view?usp=sharing&resourcekey=0-PmCtCEW7-_z7GmU8JvAheg)
+- [Alien Vs. Predator (2004)](https://drive.google.com/file/d/0Bxpj_oRibJ5kZTlmNTIzRjU4ekU/view?usp=sharing&resourcekey=0-kBSIucVemO3llLrafH-XRQ)
+- [Alien Vs. Predator Requiem (2007)](https://drive.google.com/file/d/0B4MqvPThrYNjZE9sX2wwbkRZbXc/view?usp=sharing&resourcekey=0-6UabtX9aRzTD-5F1bOF9sw)
+- [Assassin's Creed (2017)](https://drive.google.com/file/d/0B-k5_BUVjeQSczRvN1d0VHBFcTg/view?usp=sharing&resourcekey=0-org-X_RxCuw2XYnZnVjv8w)
+- [Forrest Gump (1994)](https://drive.google.com/file/d/0B-uFeCO4yCFIa3hNRDc5eVlBSjQ/view?usp=sharing&resourcekey=0-rOslYKb17fIDWtuiy8P2ag)
+- [Guardian's of the Galaxy Vol.2 (2017)](https://drive.google.com/file/d/0B-uFeCO4yCFIZXNnLUg3cVdiU3M/view?usp=sharing&resourcekey=0-s1hwC6vvc_w-Q2CRrpP08g)
+- [King Kong (2005)](https://drive.google.com/file/d/0By5b6VRVheoWUmNTcEJiOXdJdjQ/view?usp=sharing&resourcekey=0-S6FZYivo19MI9Z4h-ZRrOw)
