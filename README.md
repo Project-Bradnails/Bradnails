@@ -13,7 +13,7 @@ This is mainly made for Windows 10 and above machines. Stuff like a Chromebook w
 1. Open game link from [softwarelist.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/softwarelist.md)
 2. Download from Google Drive
 3. Make a folder, preferably in your main C: drive for your games
-4. Download 7zip portable
+4. Download [7zip portable](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view)
 5. If a .7z or zip file, extract the file (open 7zip, navigate to the file, select it and hit extract)
 6. Go to properties, scroll down and uncheck the 'blocked' box
 7. Disable your internet
