@@ -11,6 +11,7 @@
 - [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
 - [Tetris for all the boring hoes out there](https://drive.google.com/file/d/1I6v9nsqHhttABpsb7tQQPG8tWMv17TyA/view?usp=sharing)
 - [Sonic The Hedgehog](https://drive.google.com/file/d/1jg0jJyfP3ycxgtIy8bleOPeET9mhUc9y/view?usp=sharing)
+- [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
 - [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 # EMULATORS
 
