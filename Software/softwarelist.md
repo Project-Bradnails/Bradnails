@@ -7,6 +7,9 @@
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
 - [Hollow Knight](https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ)
 - [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
+- [Doom II](https://drive.google.com/file/d/1VqNKitGEUFMZClM7ycby0TCdbw0_vuRA/view?usp=sharing)
+- [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
+- [Tetris for all the boring hoes out there](https://drive.google.com/file/d/1I6v9nsqHhttABpsb7tQQPG8tWMv17TyA/view?usp=sharing)
 # EMULATORS
 
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
