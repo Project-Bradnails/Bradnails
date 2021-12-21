@@ -13,15 +13,14 @@ This is mainly made for Windows 10 and above machines. Stuff like a Chromebook w
 1. Open game link from [softwarelist.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/softwarelist.md)
 2. Download from Google Drive
 3. Make a folder, preferably in your main C: drive for your games
-4. Download [7zip portable](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view)
-5. If a .7z or zip file, extract the file (open 7zip, navigate to the file, select it and hit extract)
-6. Go to properties, scroll down and uncheck the 'blocked' box
-7. Disable your internet
-8. Open the .exe
-9. If prompted with a Smart Screen box, click run. Game will still be alright.
+4. If compressed, extract the game (use [7zip portable](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view) for .rar and .7z)
+5. Go to properties, scroll down and uncheck the 'blocked' box
+6. Disable your internet
+7. Open the .exe
+8. If prompted with a Smart Screen box, click run. Game will still be alright.
 
 ## Tips
-
+- We VERY heavily recommend to always run your games when you have disconnected your internet. This can save both you and us a lot of issues later down the road.
 - We recommend running all your games on a "different desktop." You can do this by pressing Windows + tab and pressing the
 new desktop button. This way if staff is trying to check your computer, they likely will only see your actual work.
 - To access games easier, right click the application create a shortcut. You can drag this shortcut anywhere, making it convenient to access
