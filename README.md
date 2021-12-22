@@ -1,7 +1,7 @@
 ![](header.png?raw=true)
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful.**
-### **If you gatekeep Bradnails, you are wasting our efforts. This is for everyone. To the gatekeepers: please stop. While you may think, Bradnails will get removed if it becomes too popular, we have a contingency plan if this happens. We ask you to spread this as much as possible as that was our original intent. If we made this ofr select people, we would have kept it private. Thank you for your understanding.**
+### **If you gatekeep Bradnails, you are wasting our efforts. This is for everyone. To the gatekeepers: please stop. While you may think, Bradnails will get removed if it becomes too popular, we have a contingency plan if this happens. We ask you to spread this as much as possible as that was our original intent. If we made this for select people, we would have kept it private. Thank you for your understanding.**
 
 #### Already read all this stuff? Skip right to the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/softwarelist.md)
 
