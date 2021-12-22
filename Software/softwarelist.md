@@ -16,7 +16,7 @@
 - [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
 - [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 - [Five Nights at Freddys 2](https://drive.google.com/file/d/1lCoKR7FY1Y7qRbzihi5j8wyaXlh3mujw/view?usp=sharing)
-- [Super Mario 127 DEMO](https://drive.google.com/file/d/1EBsj4jmpBzE2ZMFIgKi7tLSDnOdNuiJn/view?usp=sharing) (PERMISSIONS BROKEN! Will fix later!)
+- [Super Mario 127 Demo](https://drive.google.com/file/d/1_Ke9TRD2LinEkM0thgo22bNR-azNd5cf/view?usp=sharing)
 # EMULATORS
 
 - [RETROARCH for all consoles](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
