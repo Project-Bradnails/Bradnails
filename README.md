@@ -1,7 +1,7 @@
 ![](header.png?raw=true)
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful.**
-### **If you gatekeep Bradnails, you are wasting our efforts. This is for everyone. To the gatekeepers: disrespectfully go fuck yourself**
+### **If you gatekeep Bradnails, you are wasting our efforts. This is for everyone. To the gatekeepers: disrespectfully go fuck yourself.**
 
 #### Already read all this stuff? Skip right to the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/softwarelist.md)
 
