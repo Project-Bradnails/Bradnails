@@ -50,6 +50,7 @@
 ### Dreamcast
 - [Marvel Vs Capcom 2](https://drive.google.com/file/d/1Wdjp0Eoh0HUA56LOmyx2Z0db2cWOI0Av/view?usp=sharing)
 - [Sonic Adventure](https://drive.google.com/file/d/1qJYWnCHasTZxB_D3HwVgahyQpytF_csb/view?usp=sharing)
+- [Sonic Adventure 2](https://drive.google.com/file/d/1uE52bR__rTOWlNPurXcY7YqwYDyZwto2/view?usp=sharing)
 
 ## Sony
 
