@@ -4,6 +4,7 @@ Extra notes for software, in case you might need them.
 - To load a game, load the core that corresponds to the system the game was originally on, then click File>LoadContent on the top left, and select your game file
 - PlayStation emulation requires a PlayStation BIOS. You may have to configure this
 - If you are not getting any sound output, in RetroArch go to settings>audio>output and change the output to dsound
+- You're likely going to have to remap your controls for 3D games, so we recommend just sticking to 2D and using the other emulators we've uploaded for 3d games.
 
 ### DOLPHIN
 [Here is a tutorial to actually use Dolphin](https://www.youtube.com/watch?v=uj2DyAD8_pg)
