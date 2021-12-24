@@ -1,6 +1,6 @@
 ![](header.png?raw=true)
 ## HOLIDAY UPDATE
-- Tomorrow sometime during Christmas, we will be dropping a huge holiday update! Look forward to new games, the addition of some super hero movies, specifically movies that star a character that is in No Way Home! Christmas movies, christmas specials as well! 
+- Tomorrow sometime during Christmas, we will be dropping a huge holiday update! Look forward to new games, the addition of some super hero movies, specifically movies that star a character that is in No Way Home! Christmas movies, christmas specials as well! And once again, Happy Holidays!
 
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful.**
