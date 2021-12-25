@@ -80,6 +80,18 @@ NOTE: When you click a movie, it will open a video window to watch it. You do no
 - [Kill Zone 2 (2015)](https://drive.google.com/file/d/0B1vIGLoz_v3ndkFxT3NuR1REZTg/view?usp=sharing&resourcekey=0--rOOhqAKVqB-6mHMQNa6-Q)
 - [X-Men Origins- Wolverine (2009)](https://drive.google.com/file/d/0BxvqXivT-hg5d2VmZDdsNlBNUzQ/view?usp=sharing&resourcekey=0-QWd9FlwAU9FUyU3Ejx_Cqw)
 - [X-Men- Apocalypse](https://drive.google.com/file/d/0B-J9Gkw1iO85XzhPMEN5LUVJakk/view?usp=sharing&resourcekey=0-CM_D9L5sDkTcPNzyuXItiw)
+- [The Amazing Spider-Man (2012) (Andrew Garfield)](https://drive.google.com/file/d/1ZlNSP24EWVN7IrjF96eMXPYoUYnjKMGP/view?usp=sharing)
+- [The Amazing Spider-Man 2 (2014) (Andrew Garfield)](https://drive.google.com/file/d/1bMl5eg6R4j_c1uHjSs_XoZ2mZIpEpEam/view?usp=sharing)
+- [Spider-Man 1 (2002) (Tobey Maguire)](https://drive.google.com/file/d/1ZdZM6rFTgeYVPhHUdp01yGo6NtbbiBsZ/view?usp=sharing)
+- [Spider-Man 2 (2004) (Tobey Maguire)](https://drive.google.com/file/d/10VBbJ4MdR7clzeU-kiPGIgljs1gqSM6O/view?usp=sharing)
+- [Spider-Man 3 (2007) (Tobey Maguire)](https://drive.google.com/file/d/10VBbJ4MdR7clzeU-kiPGIgljs1gqSM6O/view?usp=sharing)
+- [Spider-Man: Homecoming (2017) (Tom Holland)](https://drive.google.com/file/d/1I9PYrrRLo1m_5Wtfq59L6gHGa3NaUXDv/view?usp=sharing)
+- [Spider-Man: Far From Home (2019) (Tom Holland)](https://drive.google.com/file/d/1RBAp6uJHQvUKiiesIFLnC7e--24yFHFM/view?usp=sharing)
+- [Elf (2003)](https://drive.google.com/file/d/1aus7IcL_iSNmvkKohgiZCjNoCmztRehu/view?usp=sharing)
+- [Home Alone (1990)](https://drive.google.com/file/d/1P5HxskKFDFD7a9iv0yj-QRJOSwEr_4b3/view?usp=sharing)
+- [How The Grinch Stole Christmas (1996)](https://drive.google.com/file/d/1wK225fdBQFk2cUA2jS9JFl41S3ILxCqc/view?usp=sharing)
+- [It's Christmas Time Again, Charlie Brown (1992)](https://drive.google.com/file/d/13bYb5ogy6az3kJpBcEo9ZQx_35FjmLZk/view?usp=sharing)
+- [A Charlie Brown Christmas (1965)](https://drive.google.com/file/d/1EgPdiBPi3cT8Nz5zV6h0ZEnfxY3P38dI/view?usp=sharing)
 
 # TV SHOWS
 - [The Office (US)](https://drive.google.com/drive/folders/0B7dnuPEe600EQkkxSWlidi1CZTg?resourcekey=0-4vYsx_Vyb5_dL1s2h31nIA&usp=sharing) NOTE: For reasons unknown, the episodes are from Season 2 Episode 8 up. The rest of the episodes are there.
