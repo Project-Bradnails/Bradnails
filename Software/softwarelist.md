@@ -18,7 +18,11 @@
 - [Sonic The Hedgehog](https://drive.google.com/file/d/1jg0jJyfP3ycxgtIy8bleOPeET9mhUc9y/view?usp=sharing)
 - [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
 - [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
+- [Five Nights at Freddys](https://drive.google.com/file/d/0B31-NQeMvxfqcUNTSHZTYmgwODQ/view?usp=sharing)
 - [Five Nights at Freddys 2](https://drive.google.com/file/d/1lCoKR7FY1Y7qRbzihi5j8wyaXlh3mujw/view?usp=sharing)
+- [Five Nights at Freddys 3](https://drive.google.com/file/d/0B31-NQeMvxfqSTFTcFNiY1J5VEE/view?usp=sharing)
+- [Five Nights at Freddys 4](https://drive.google.com/file/d/0B3UqtAb3iqEiUTd1Z3J4bV9vM1E/view?usp=sharing)
+- [Five Nights at Freddys: Sister Location](https://drive.google.com/file/d/1fe7lRYUed41rEim3aB_ml528_IwG11Pc/view?usp=sharing)
 - [Super Mario 127 Demo](https://drive.google.com/file/d/1_Ke9TRD2LinEkM0thgo22bNR-azNd5cf/view?usp=sharing)
 # EMULATORS
 
