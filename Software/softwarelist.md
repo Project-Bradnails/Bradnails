@@ -1,6 +1,7 @@
 ## For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
 
 ## Not seeing a game on here that you might like to see? [Request games, roms, and apps here!](https://forms.gle/okGTsEfDd5rJYNkm8)
+## Experiencing bugs? Is a game not working? [Report those issues here!](https://forms.gle/dGGraS3s1RRsPFve7)
 
 # GAMES
 
