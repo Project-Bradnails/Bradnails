@@ -1,5 +1,6 @@
 Extra notes for software, in case you might need them.
-
+### Friday Night Funkin' Psych Engine
+- To play mods, drag them into your mods folder, and then open the game, go onto where it says "MODS" and enable the mods you want enabled
 ### RETROARCH
 - To load a game, load the core that corresponds to the system the game was originally on, then click File>LoadContent on the top left, and select your game file
 - PlayStation emulation requires a PlayStation BIOS. You may have to configure this
