@@ -7,8 +7,6 @@
 
 #### Already read all this stuff? Skip right to the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/softwarelist.md)
 
-[Request games, roms, and apps here!](https://forms.gle/okGTsEfDd5rJYNkm8)
-
 *Just so you know, we can't add everything. Not everything runs on a school computer.*
 
 ### This repository is the definitive archive for unblocked school content. You can find games, movies, apps and more, all on the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/softwarelist.md) page.
