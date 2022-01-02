@@ -89,9 +89,9 @@ If you want to take an extra step in being safe, delete both your web hisotry an
 
 ## About The Devs
 ### KushKonsumer
-- Enjoys consuming copious amounts of kush. In their free time, they like to play video games and consume kush.
+- As the name states, enjoys consuming copious amounts of kush. In their free time, they like to play video games and consume kush.
 ### Spoodermoon731
-- Big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
+- As the name also states, big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
 ### StanfieldMozart
 - As the name doesn't state, enjoys the outdoors and seeing the world. That about all there is to them.
 ### Rev2 
