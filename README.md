@@ -88,7 +88,11 @@ If you want to save game progress, you can keep your saves on a flash drive or s
 If you want to take an extra step in being safe, delete both your web hisotry and your downloaded file history.
 
 ## About The Devs
-- KushKonsumer, as the name states, enjoys consuming copious amounts of kush. In their free time, they like to play video games and consume kush.
-- Spoodermoon731, as the name also states, is a big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
-- StanfieldMozart, as the name doesn't state, enjoys the outdoors and seeing the world. That about all there is to them.
-- Rev2. Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
+### KushKonsumer
+- Enjoys consuming copious amounts of kush. In their free time, they like to play video games and consume kush.
+### Spoodermoon731
+- Big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
+### StanfieldMozart
+- As the name doesn't state, enjoys the outdoors and seeing the world. That about all there is to them.
+### Rev2 
+- Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
