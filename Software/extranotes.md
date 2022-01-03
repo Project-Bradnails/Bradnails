@@ -1,4 +1,7 @@
 Extra notes for software, in case you might need them.
+
+[< Back to Games List](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/softwarelist.md)
+
 ### Friday Night Funkin' - Psych Engine
 - To play mods, drag them into your mods folder, and then open the game, go onto where it says "MODS" and enable the mods you want enabled
 
