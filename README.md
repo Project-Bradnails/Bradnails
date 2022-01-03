@@ -1,7 +1,7 @@
 ![](header.png?raw=true)
 ## 2022 UPDATE
 - The 2022 Update trailer is out!
-https://user-images.githubusercontent.com/96384765/147895203-d8e8e08b-16d4-4d80-b2bc-6da4a974e91a.mp4
+- https://user-images.githubusercontent.com/96384765/147895203-d8e8e08b-16d4-4d80-b2bc-6da4a974e91a.mp4
 
 
 
