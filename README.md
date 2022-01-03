@@ -1,5 +1,5 @@
 ![](header.png?raw=true)
-## HOLIDAY UPDATE
+## 2022 UPDATE
 - The Holiday Update will be out on January 3rd, but in the mean time enjoy some new Christmas movies! Sorry for the delay, with Christmas and all, we are all a bit busy.
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful.**
