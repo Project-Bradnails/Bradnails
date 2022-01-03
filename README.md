@@ -94,5 +94,3 @@ If you want to take an extra step in being safe, delete both your web hisotry an
 - As the name also states, big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
 #### StanfieldMozart
 - As the name doesn't state, they enjoy the outdoors and seeing the world. That about all there is to them.
-#### Rev2 
-- Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
