@@ -1,6 +1,17 @@
 Extra notes for software, in case you might need them.
 ### Friday Night Funkin' - Psych Engine
 - To play mods, drag them into your mods folder, and then open the game, go onto where it says "MODS" and enable the mods you want enabled
+![image](https://user-images.githubusercontent.com/96362136/147957647-ba300149-fbe1-47df-bc06-4bb1a5944136.png)
+![image](https://user-images.githubusercontent.com/96362136/147957677-1f24641c-6c86-4d24-8c39-5478801d20b0.png)
+![image](https://user-images.githubusercontent.com/96362136/147957833-c6456716-1e91-47a2-85a6-5e71e9f901a8.png)
+
+
+
+
+### Cuphead
+- The game automatically sets itself to a high resolution, so you will want to change it to a lower resolution to avoid lag. To do this, go to settings>visuals and change resolution. The menu for changing resolution should look like this.
+![image](https://user-images.githubusercontent.com/96362136/147957614-dca06c72-d1dc-423e-806d-38f433492e79.png)
+
 
 ### RETROARCH
 - To load a game, load the core that corresponds to the system the game was originally on, then click File>LoadContent on the top left, and select your game file
