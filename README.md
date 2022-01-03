@@ -1,8 +1,7 @@
 ![](header.png?raw=true)
 ## 2022 UPDATE
 - The 2022 Update trailer is out!
-- https://img.youtube.com/vi/<https://www.youtube.com/watch?v=LrZByysJ-44>/maxresdefault.jpg
-
+- [![Watch the video](https://img.youtube.com/vi/LrZByysJ-44/maxresdefault.jpg)](https://youtu.be/LrZByysJ-44)
 
 
 
