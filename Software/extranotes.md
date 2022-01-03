@@ -11,6 +11,7 @@ Extra notes for software, in case you might need them.
 
 ### Cuphead
 - The game automatically sets itself to a high resolution, so you will want to change it to a lower resolution to avoid lag. To do this, go to settings>visuals and change resolution. The menu for changing resolution should look like this.
+
 ![image](https://user-images.githubusercontent.com/96362136/147957614-dca06c72-d1dc-423e-806d-38f433492e79.png)
 
 
