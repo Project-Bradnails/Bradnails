@@ -1,6 +1,7 @@
 Extra notes for software, in case you might need them.
 ### Friday Night Funkin' - Psych Engine
 - To play mods, drag them into your mods folder, and then open the game, go onto where it says "MODS" and enable the mods you want enabled
+
 ![image](https://user-images.githubusercontent.com/96362136/147957647-ba300149-fbe1-47df-bc06-4bb1a5944136.png)
 ![image](https://user-images.githubusercontent.com/96362136/147957677-1f24641c-6c86-4d24-8c39-5478801d20b0.png)
 ![image](https://user-images.githubusercontent.com/96362136/147957833-c6456716-1e91-47a2-85a6-5e71e9f901a8.png)
