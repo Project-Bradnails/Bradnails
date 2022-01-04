@@ -35,7 +35,7 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
 - Terraria (Currently Unavailable)
-- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't We are looking into the issue.)
+- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't. We are looking into the issue.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
 
 # EMULATORS
