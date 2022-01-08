@@ -17,7 +17,6 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
 - [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 - [Sonic CD](https://drive.google.com/file/d/1vBPzTz_UYyUQWMvAVIvpOBQRqP0Sar1w/view?usp=sharing)
-- [Five Nights at Freddys](NOTE: Game was removed due to major file issue. We're working on the issue.)
 - [Five Nights at Freddys 2](https://drive.google.com/file/d/1lCoKR7FY1Y7qRbzihi5j8wyaXlh3mujw/view?usp=sharing)
 - [Five Nights at Freddys 3](https://drive.google.com/file/d/0B31-NQeMvxfqSTFTcFNiY1J5VEE/view?usp=sharing)
 - [Five Nights at Freddys 4](https://drive.google.com/file/d/0B3UqtAb3iqEiUTd1Z3J4bV9vM1E/view?usp=sharing)
@@ -34,7 +33,6 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
-- Terraria (Currently Unavailable)
 - [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't. We are looking into the issue.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
 
