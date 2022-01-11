@@ -4,7 +4,7 @@
 Note: We are still working on a way to make Terraria function properly. It is currenty unable to read the Microsoft XNA .dll files and we are working on a fix for that.
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
-- [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
+- [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view?usp=sharing)
 - [Geometry Dash](https://drive.google.com/file/d/1pi1jstxevRrkCO3rdd-3LpPvLPVei30g/view?usp=sharing)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
 - [BTD 6](https://drive.google.com/file/d/1i8jFcQ0SpODJOuzzORHDIhJZMgkeHgu3/view?usp=sharing)
