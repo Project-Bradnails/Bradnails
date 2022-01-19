@@ -1,8 +1,23 @@
 ![](header.png?raw=true)
-## 2022 UPDATE
-- The 2022 Update is out!
- 
- [![Watch the video](https://img.youtube.com/vi/LrZByysJ-44/maxresdefault.jpg)](https://youtu.be/LrZByysJ-44)
+## New update coming soon
+Planned additions
+**This stuff isn't guaranteed!!! Just on our plans n shit**
+- Patch notes page
+- PlayStation 1 and 2 emulation + ROMs
+- Dragon Ball FighterZ 
+- Megaman Legacy Collection
+- Portal 2
+- Hades
+- Stardew Valley
+- Shawshank Redemption
+- Star Wars Original Trilogy
+- Geometry Dash FIXED
+- Sonic Robo Blast 2
+- Five Nights at Freddy's 1
+- Super Metroid
+- Metroid Prime
+- NEWGROUNDS Flash Player
+- Other movie stuff idfk 
 
 
 
