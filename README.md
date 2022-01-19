@@ -59,7 +59,7 @@ new desktop button. This way if staff is trying to check your computer, they lik
 ## FAQ
 - *Is this a virus or a scam?*
 
-Nope, don't worry. Our team of 6 checks everything to make sure it's functional before uploading to the software list.
+Nope, don't worry. Our team of 5 checks everything to make sure it's functional before uploading to the software list.
 
 - *Where is the Google drive?*
 
