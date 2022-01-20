@@ -1,7 +1,7 @@
 ## For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
 
 # GAMES
-Note: We are still working on a way to make Terraria function properly. It is currenty unable to read the Microsoft XNA .dll files and we are working on a fix for that.
+
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
 - [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
@@ -38,12 +38,12 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't. We are looking into the issue.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
 - [Portal 2](https://drive.google.com/file/d/14vypq86t2V3gCMWotiqYYwwVyuVOfv8L/view?usp=sharing)
--[Getting over it with Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
--[Rimworld](https://drive.google.com/file/d/1X-vZUvo_gaDIwbLD4ppBgkhHcwHX12tr/view?usp=sharing)
--[The Elder Scrolls IV: Oblivion](https://drive.google.com/file/d/1adM1PzRz9z658VOxL3jT7E1ZuaAtiEa0/view?usp=sharing)
--[Doom 3](https://drive.google.com/file/d/1EpVN3AtsNk-sIMvnlIFs0q41ZwPOuCWA/view?usp=sharing)
--[Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
--[Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
+- [Getting over it with Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
+- [Rimworld](https://drive.google.com/file/d/1X-vZUvo_gaDIwbLD4ppBgkhHcwHX12tr/view?usp=sharing)
+- [The Elder Scrolls IV: Oblivion](https://drive.google.com/file/d/1adM1PzRz9z658VOxL3jT7E1ZuaAtiEa0/view?usp=sharing)
+- [Doom 3](https://drive.google.com/file/d/1EpVN3AtsNk-sIMvnlIFs0q41ZwPOuCWA/view?usp=sharing)
+- [Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
+- [Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
 
 # EMULATORS
 
