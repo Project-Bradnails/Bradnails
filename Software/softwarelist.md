@@ -1,5 +1,7 @@
 ## For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
 
+#### Report bugs and issues or request games in our [Discord](https://discord.gg/tAfDFVMpnB)
+
 # GAMES
 
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
