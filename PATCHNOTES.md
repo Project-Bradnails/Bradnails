@@ -1,6 +1,7 @@
 # Patch Notes
 
-##1/20/22
+## 1/20/22
+
 - Fixed Geometry Dash
 - Added Halo 2
 - Added Dark Souls Remastered
