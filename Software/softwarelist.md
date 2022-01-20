@@ -4,6 +4,7 @@
 Note: We are still working on a way to make Terraria function properly. It is currenty unable to read the Microsoft XNA .dll files and we are working on a fix for that.
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
+- [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
 - [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view?usp=sharing)
 - [Geometry Dash](https://drive.google.com/file/d/1pi1jstxevRrkCO3rdd-3LpPvLPVei30g/view?usp=sharing)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
@@ -17,6 +18,7 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
 - [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 - [Sonic CD](https://drive.google.com/file/d/1vBPzTz_UYyUQWMvAVIvpOBQRqP0Sar1w/view?usp=sharing)
+- [Five Nights at Freddys 1](https://drive.google.com/file/d/1XHomPytyZiKGKOkli5ulu4FSthT6tiah/view?usp=sharing)
 - [Five Nights at Freddys 2](https://drive.google.com/file/d/1lCoKR7FY1Y7qRbzihi5j8wyaXlh3mujw/view?usp=sharing)
 - [Five Nights at Freddys 3](https://drive.google.com/file/d/0B31-NQeMvxfqSTFTcFNiY1J5VEE/view?usp=sharing)
 - [Five Nights at Freddys 4](https://drive.google.com/file/d/0B3UqtAb3iqEiUTd1Z3J4bV9vM1E/view?usp=sharing)
@@ -35,6 +37,7 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
 - [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't. We are looking into the issue.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
+- [Portal 2](https://drive.google.com/file/d/14vypq86t2V3gCMWotiqYYwwVyuVOfv8L/view?usp=sharing)
 
 # EMULATORS
 
