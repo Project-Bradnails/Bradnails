@@ -10,7 +10,7 @@ Planned additions
 - Stardew Valley
 - Shawshank Redemption
 - Star Wars Original Trilogy
-- Geometry Dash FIXED
+- Geometry Dash FIXED (Done! Now works!)
 - Sonic Robo Blast 2
 - Super Metroid
 - Metroid Prime
