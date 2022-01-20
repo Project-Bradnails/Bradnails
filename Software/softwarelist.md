@@ -39,6 +39,11 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
 - [Portal 2](https://drive.google.com/file/d/14vypq86t2V3gCMWotiqYYwwVyuVOfv8L/view?usp=sharing)
 -[Getting over it with Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
+-[Rimworld](https://drive.google.com/file/d/1X-vZUvo_gaDIwbLD4ppBgkhHcwHX12tr/view?usp=sharing)
+-[The Elder Scrolls IV: Oblivion](https://drive.google.com/file/d/1adM1PzRz9z658VOxL3jT7E1ZuaAtiEa0/view?usp=sharing)
+-[Doom 3](https://drive.google.com/file/d/1EpVN3AtsNk-sIMvnlIFs0q41ZwPOuCWA/view?usp=sharing)
+-[Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
+-[Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
 
 # EMULATORS
 
