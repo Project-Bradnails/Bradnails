@@ -77,6 +77,8 @@
 - [Super Mario Galaxy](https://drive.google.com/file/d/1IWJwzpC0-i4K2uA59Wlc4tvmCiGEOX5L/view?usp=sharing)
 - [Animal Crossing: City Folk](https://drive.google.com/file/d/1mfn0oCOgJls_ZXJnFlIdtRsj1-G3p9IK/view?usp=sharing)
 - [Super Mario Sunshine](https://drive.google.com/file/d/120B4jN0yQhS0hMJIpCAs_rK8bhII4oD7/view?usp=sharing)
+- [Mario Kart Wii](https://drive.google.com/file/d/11xdaN6Ve-YmDN2g98FMvUz3PcHcA3nhB/view?usp=sharing)
+- [Wii Play](https://drive.google.com/file/d/1Nd78_si62Jn4RdlIAK3xA2Xtbo81G4u0/view?usp=sharing)
 
 ### Project64
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
