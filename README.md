@@ -2,7 +2,6 @@
 ## New update coming soon
 Planned additions
 **This stuff isn't guaranteed!!! Just on our plans n shit**
-- Patch notes page
 - PlayStation 1 and 2 emulation + ROMs
 - Dragon Ball FighterZ 
 - Megaman Legacy Collection
@@ -10,13 +9,13 @@ Planned additions
 - Stardew Valley
 - Shawshank Redemption
 - Star Wars Original Trilogy
-- Geometry Dash FIXED (Done! Now works!)
 - Sonic Robo Blast 2
 - Super Metroid
 - Metroid Prime
 - NEWGROUNDS Flash Player
 - Other movie stuff idfk 
 
+#### Check our [patch notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md) to see what is added in each update!
 
 
 ## Info
