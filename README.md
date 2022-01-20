@@ -15,7 +15,9 @@ Planned additions
 - NEWGROUNDS Flash Player
 - Other movie stuff idfk 
 
-#### Check our [patch notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md) to see what is added in each update!
+#### Check our [patch notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md) to see what is added in each update.
+
+#### Join our [Discord](https://discord.gg/VmFeQU8963) to get the latest updates and news before everyone else, and get specific answers to your questions or issues.
 
 
 ## Info
