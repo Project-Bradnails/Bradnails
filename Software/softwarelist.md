@@ -8,7 +8,6 @@
 - [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view?usp=sharing)
 - [Geometry Dash](https://drive.google.com/file/d/1QCwaONY11zKW-tlBrPg0V5TBz8bbmTsm/view?usp=sharing)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
-- [BTD 6](https://drive.google.com/file/d/1i8jFcQ0SpODJOuzzORHDIhJZMgkeHgu3/view?usp=sharing)
 - [Hollow Knight](https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ)
 - [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
 - [DOOM II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
