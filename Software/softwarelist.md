@@ -42,7 +42,7 @@
 - [Getting Over It With Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
 - [Rimworld](https://drive.google.com/file/d/1X-vZUvo_gaDIwbLD4ppBgkhHcwHX12tr/view?usp=sharing)
 - [The Elder Scrolls IV: Oblivion](https://drive.google.com/file/d/1adM1PzRz9z658VOxL3jT7E1ZuaAtiEa0/view?usp=sharing)
-- [DOOM 3](https://drive.google.com/file/d/1EpVN3AtsNk-sIMvnlIFs0q41ZwPOuCWA/view?usp=sharing)
+- [DOOM 3](https://drive.google.com/file/d/1EpVN3AtsNk-sIMvnlIFs0q41ZwPOuCWA/view?usp=sharing) (Note: the DOSbox may not work/load the game. if you can fix this please join the discord and tell us)
 - [Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
 - [Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
 - [The Henry Stickmin Collection](https://drive.google.com/file/d/1ne97OWzZZBzOfxAzLHN1YgBA-cQip6-d/view?usp=sharing)
