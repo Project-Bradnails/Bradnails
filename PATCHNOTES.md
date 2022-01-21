@@ -12,5 +12,6 @@
 - Added Rimworld
 - Added Mortal Kombat 3
 - Removed BTD 6 (requires internet to play)
+- Added The Henry Stickmin Collection
 - Added Mario Kart Wii
 - Added Wii Play
