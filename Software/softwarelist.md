@@ -45,6 +45,7 @@
 - [DOOM 3](https://drive.google.com/file/d/1EpVN3AtsNk-sIMvnlIFs0q41ZwPOuCWA/view?usp=sharing)
 - [Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
 - [Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
+- [The Henry Stickmin Collection](https://drive.google.com/file/d/1ne97OWzZZBzOfxAzLHN1YgBA-cQip6-d/view?usp=sharing)
 
 # EMULATORS
 
