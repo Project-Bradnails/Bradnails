@@ -102,7 +102,7 @@ Clear your recycling bin.
 
 If you want to save game progress, you can keep your saves on a flash drive or separate computer.
 
-If you want to take an extra step in being safe, delete both your web hisotry and your downloaded file history.
+If you want to take an extra step in being safe, delete both your web history and your downloaded file history.
 
 ## About The Devs
 #### KushKonsumer
