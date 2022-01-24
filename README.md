@@ -13,7 +13,6 @@ Planned additions
 - Super Metroid
 - Metroid Prime
 - NEWGROUNDS Flash Player
-- Bluestacks v4
 - Other movie stuff idfk 
 
 #### Check our [patch notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md) to see what is added in each update.
