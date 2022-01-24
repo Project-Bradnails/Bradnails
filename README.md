@@ -56,7 +56,7 @@ new desktop button. This way if staff is trying to check your computer, they lik
 ## FAQ
 - *Is this a virus or a scam?*
 
-Nope, don't worry. Our team of 5 checks everything to make sure it's functional before uploading to the software list.
+Nope, don't worry. Our team of 6 checks everything to make sure it's functional before uploading to the software list.
 
 - *Where is the Google drive?*
 
@@ -115,3 +115,5 @@ If you want to take an extra step in being safe, delete both your web history an
 - Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
 #### MunchieMasher
 - As the name states, enjoys mashing massive ammounts of munchies. In their free time, they like gaming and mashing munchies.
+#### Caesar
+- As the name states, Caeser
