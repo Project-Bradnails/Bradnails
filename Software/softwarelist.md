@@ -49,6 +49,8 @@
 
 # EMULATORS
 
+
+- [Bluestacks v4](https://drive.google.com/file/d/1M-J0q0RhW9CrOu4gQFcwD3KFsK8hapqp/view?usp=sharing)
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
 - [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
 - [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
@@ -101,7 +103,6 @@
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)
 - [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
 - [Paint.net](https://drive.google.com/file/d/1_PdT3q3zeT5gBilUMdqR-BaYgpYfnNG3/view?usp=sharing)
-- [Bluestacks v4](https://drive.google.com/file/d/1M-J0q0RhW9CrOu4gQFcwD3KFsK8hapqp/view?usp=sharing)
 
 # MOVIES
 NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be a very large file. In addition, longer films such as the Spider-Man films may take a long time to load. Patience is key.
