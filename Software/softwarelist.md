@@ -36,7 +36,7 @@
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
-- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't. We are looking into the issue.)
+- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
 - [Portal 2](https://drive.google.com/file/d/14vypq86t2V3gCMWotiqYYwwVyuVOfv8L/view?usp=sharing)
 - [Getting Over It With Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
