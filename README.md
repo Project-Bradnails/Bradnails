@@ -13,6 +13,7 @@ Planned additions
 - Super Metroid
 - Metroid Prime
 - NEWGROUNDS Flash Player
+- Bluestacks v4
 - Other movie stuff idfk 
 
 #### Check our [patch notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md) to see what is added in each update.
@@ -113,3 +114,5 @@ If you want to take an extra step in being safe, delete both your web history an
 - As the name doesn't state, they enjoy the outdoors and seeing the world. That about all there is to them.
 #### Rev2 
 - Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
+#### MunchieMasher
+- As the name states, enjoys mashing massive ammounts of munchies. In their free time, they like gaming and mashing munchies.
