@@ -49,11 +49,11 @@
 
 # EMULATORS
 
-
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
 - [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
 - [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
 - [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
+- [Bluestacks](https://drive.google.com/file/d/1g4NgDHcs3xcj4HXEk5ZLxl8isNsMRqGM/view?usp=sharing)
 
 # ROMs
 ## Nintendo
