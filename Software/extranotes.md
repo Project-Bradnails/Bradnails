@@ -2,7 +2,7 @@ Extra notes for software, in case you might need them.
 
 [< Back to Games List](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/softwarelist.md)
 
-### Friday Night Funkin' - Psych Engine
+## Friday Night Funkin' - Psych Engine
 - To play mods, drag them into your mods folder, and then open the game, go onto where it says "MODS" and enable the mods you want enabled
 
 ![image](https://user-images.githubusercontent.com/96362136/147957647-ba300149-fbe1-47df-bc06-4bb1a5944136.png)
@@ -12,13 +12,13 @@ Extra notes for software, in case you might need them.
 
 
 
-### Cuphead
+## Cuphead
 - The game automatically sets itself to a high resolution, so you will want to change it to a lower resolution to avoid lag. To do this, go to settings>visuals and change resolution. The menu for changing resolution should look like this.
 
 ![image](https://user-images.githubusercontent.com/96362136/147957614-dca06c72-d1dc-423e-806d-38f433492e79.png)
 
 
-### RETROARCH
+## RETROARCH
 - To load a game, load the core that corresponds to the system the game was originally on, then click File>LoadContent on the top left, and select your game file
 
 ![image](https://user-images.githubusercontent.com/96362136/147957939-a416db90-c7c2-4cfa-acbf-b56b954dc8ee.png)
@@ -31,17 +31,17 @@ Extra notes for software, in case you might need them.
 
 - You're likely going to have to remap your controls for 3D games, so we recommend just sticking to 2D and using the other emulators we've uploaded for 3d games.
 
-### DOLPHIN
+## DOLPHIN
 [Here is a tutorial to actually use Dolphin](https://www.youtube.com/watch?v=uj2DyAD8_pg)
 
-### 7ZIP
+## 7ZIP
 - 7Zip is a software that can zip up folders into an alternative zip file. Instead of the .zip extension it compresses to a .7z file. Although, both work we will sometimes use .7z files and you unzip these by first downloading 7zip from [this link](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing). After that you can double click on the .7z and you will be greeted with this. 
 
 ![image](https://user-images.githubusercontent.com/96384765/146795867-1458bf41-95d1-4338-8c91-3e70ca6b2eb7.png)
 
 - Once you see that, click extract then choose a destination. The destination is where the unpacked files will be deposited. After unpacking you will have a file folder.
 
-### GEFORCE NOW
+## GEFORCE NOW
 -NOTE: You cannot be on your school wifi or else GeForce NOW cannot connect. If you are at school, connect to a hotspot on your phone.
 - GeForce NOW is a cloud streaming service that allows you to play games that you normally wouldn't be able to run. With a free acount you are able to play up to an hour of games like Fortnite, Apex Legends, and more. GeForce NOW connects to digital PC game stores such as Steam, Epic Games Store, Origin, and more so you can stream the library of games you already own. There is 1000+ games, ready to play. Here is the [FAQ page](https://www.nvidia.com/en-us/geforce-now/faq/).
 
@@ -67,7 +67,7 @@ Extra notes for software, in case you might need them.
 
 - After that just load up the game and wait for the queue and have fun!
 
-### PCSX2
+## PCSX2
 - When booting PCSX2 for the first time, please select this setting
 
 ![image](https://user-images.githubusercontent.com/96362136/151085022-b7a98b68-8115-4de9-90b7-d2f3bb50453e.png)
