@@ -90,14 +90,17 @@ Extra notes for software, in case you might need them.
 
 ## DuckStation
 - To load a game, simply select Start File and navigate to your game of choice. If a game has both a .bin and .cue in its file folder, you can load either.
+
 ![image](https://user-images.githubusercontent.com/96362136/151087221-65a485d9-be42-4499-9573-0b6a70fe35ee.png)
 
 ![image](https://user-images.githubusercontent.com/96362136/151088128-58e81eda-7de2-49a7-a826-ff7472600659.png)
 
 - If you would like to boot to the PlayStation 1 Menu, select Start BIOS 
+
 ![image](https://user-images.githubusercontent.com/96362136/151088209-2f5b8e1c-b5dd-4cd8-86ab-e721a129988a.png)
 
 - These are the default controls. If you would like to change them, simply select settings and then select controller settings. 
+
 ![image](https://user-images.githubusercontent.com/96362136/151088320-664bb443-1709-4134-9c3b-fbd60e642b86.png)
 
 
