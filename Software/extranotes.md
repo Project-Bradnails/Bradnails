@@ -96,7 +96,7 @@ Extra notes for software, in case you might need them.
 
 
 ## DuckStation
-- To load a game, simply select Start File and navigate to your game of choice. If a game has both a .bin and .cue in its file folder, you can load either.
+- To load a game, simply select Start File and navigate to your game of choice. If a game has both a .bin and .cue in its file folder, you can load either. However, you NEED both.
 
 ![image](https://user-images.githubusercontent.com/96362136/151087221-65a485d9-be42-4499-9573-0b6a70fe35ee.png)
 
