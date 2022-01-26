@@ -42,11 +42,9 @@ This is mainly made for Windows 10 and above machines. Stuff like a Chromebook w
 3. Add your ROM to a ROMs folder
 4. Disable your internet
 5. Open the emulator
-
-6a. Set the Games path to your ROMs folder
-
-6b. For Retroarch, you can also load your game by clicking File>Load Content and clicking on your game file
-7. Click on the game's icon or click run
+6. Set the Games path to your ROMs folder
+7. For Retroarch, you can also load your game by clicking File>Load Content and clicking on your game file
+8. Click on the game's icon or click run
 
 ## Tips
 - We VERY heavily recommend to always run your games when you have disconnected your internet. This can save both you and us a lot of issues later down the road.
