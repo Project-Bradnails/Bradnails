@@ -32,7 +32,7 @@ Extra notes for software, in case you might need them.
 - You're likely going to have to remap your controls for 3D games, so we recommend just sticking to 2D and using the other emulators we've uploaded for 3d games.
 
 ## DOLPHIN
-[Here is a tutorial to actually use Dolphin](https://www.youtube.com/watch?v=uj2DyAD8_pg)
+[Here's a video tutorial on how to use Dolphin](https://www.youtube.com/watch?v=uj2DyAD8_pg)
 
 ## 7ZIP
 - 7Zip is a software that can zip up folders into an alternative zip file. Instead of the .zip extension it compresses to a .7z file. Although, both work we will sometimes use .7z files and you unzip these by first downloading 7zip from [this link](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing). After that you can double click on the .7z and you will be greeted with this. 
