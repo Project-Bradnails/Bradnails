@@ -67,4 +67,24 @@ Extra notes for software, in case you might need them.
 
 - After that just load up the game and wait for the queue and have fun!
 
-- By the way if you ask a stupid question that's mentioned in this guide please kill yourself.
+### PCSX2
+- When booting PCSX2 for the first time, please select this setting
+
+![image](https://user-images.githubusercontent.com/96362136/151085022-b7a98b68-8115-4de9-90b7-d2f3bb50453e.png)
+
+- To load a game, press Boot ISO (full) and then select your game file
+
+![image](https://user-images.githubusercontent.com/96362136/151085147-5f01c4de-b3ab-4910-8661-d92a7ecdab11.png)
+
+![image](https://user-images.githubusercontent.com/96362136/151085212-3a650889-4a10-477d-8267-2624507a6b29.png)
+
+- These are the default controls for the emulator
+
+![image](https://user-images.githubusercontent.com/96362136/151085280-661b67d6-3656-41d5-b138-225c064d1bd5.png)
+
+- To change the controls, go here. Under plugin settings, select PAD 1, and then click on the button you want the map and then the key you want to map it to.
+
+![image](https://user-images.githubusercontent.com/96362136/151085334-ec8a2fd2-9a30-437d-b4e3-06514833f47f.png)
+
+- When running for the first time, a game may ask you to format the memory unit. Simple go through with the process it asks you to do. The memory unit is just so your game can save.
+
