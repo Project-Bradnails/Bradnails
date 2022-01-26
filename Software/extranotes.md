@@ -88,6 +88,13 @@ Extra notes for software, in case you might need them.
 
 - When running for the first time, a game may ask you to format the memory unit. Simple go through with the process it asks you to do. The memory unit is just so your game can save.
 
+- If you would like to boot to the PlayStation 2 menu, select No disc under the CDVD tab, and then select Boot BIOS under the system tab.
+
+![image](https://user-images.githubusercontent.com/96362136/151088510-f2124576-0405-4b4b-8904-9a6024b70acb.png)
+
+![image](https://user-images.githubusercontent.com/96362136/151088536-c023d9f3-6f60-4148-9fb2-ebaddd98bc24.png)
+
+
 ## DuckStation
 - To load a game, simply select Start File and navigate to your game of choice. If a game has both a .bin and .cue in its file folder, you can load either.
 
