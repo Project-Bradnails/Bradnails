@@ -4,7 +4,7 @@
 
 # GAMES
 
-- [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+- [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
 - [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
 - [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view?usp=sharing)
@@ -36,7 +36,7 @@
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
-- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't.)
+- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#cuphead)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
 - [Portal 2](https://drive.google.com/file/d/14vypq86t2V3gCMWotiqYYwwVyuVOfv8L/view?usp=sharing)
 - [Getting Over It With Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
@@ -49,7 +49,7 @@
 
 # EMULATORS
 
-- [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+- [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
 - [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
 - [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
 - [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
@@ -98,8 +98,8 @@
 ## Sony
 
 # APPS
-- [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)
-- [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+- [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
+- [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#geforce-now))
 - [Paint.net](https://drive.google.com/file/d/1_PdT3q3zeT5gBilUMdqR-BaYgpYfnNG3/view?usp=sharing)
 
 # MOVIES
