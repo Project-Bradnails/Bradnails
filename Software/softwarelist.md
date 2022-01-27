@@ -49,6 +49,7 @@
 
 # EMULATORS
 
+- [DuckStation](https://drive.google.com/file/d/1Pqx2rV6syekQkEl_GwRgXW6fOOf_tMZB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#duckstation))
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
 - [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
 - [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
@@ -96,6 +97,11 @@
 - [Street Fighter III: 3rd Strike](https://drive.google.com/file/d/1jo7wwmComdcDJnlSu6FkLkweMggrwXLl/view?usp=sharing)
 
 ## Sony
+### DuckStation
+- [Final Fantasy VII](https://drive.google.com/file/d/1sOf4Q3TP-e759wA6LyKMPDc86sYZl4mV/view?usp=sharing)
+- [Crash Bandicoot](https://drive.google.com/file/d/1EqXIy3jbtyQpQpVlSOVN2pBQu40EGRQT/view?usp=sharing)
+- [Castlevania: Symphony of the Night](https://drive.google.com/file/d/1GJhqmmygSHX30DEQfYRgLObyN_R46FQ4/view?usp=sharing)
+- [METAL GEAR SOLID](https://drive.google.com/file/d/1m3J2d9hLTlIy6dD9942bsxKC1wbui5KS/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
