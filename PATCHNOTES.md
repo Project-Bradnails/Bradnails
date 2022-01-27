@@ -1,5 +1,9 @@
 # Patch Notes
 
+## 1/27/22
+
+- Added the original Star Wars trilogy
+
 ## 1/20/22
 
 - Fixed Geometry Dash
