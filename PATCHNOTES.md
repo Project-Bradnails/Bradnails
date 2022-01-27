@@ -3,6 +3,7 @@
 ## 1/27/22
 
 - Added the original Star Wars trilogy
+- Added DuckStation emulator along with select PS1 games
 
 ## 1/20/22
 
