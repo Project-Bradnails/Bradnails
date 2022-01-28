@@ -24,7 +24,6 @@
 - [Five Nights at Freddys 3](https://drive.google.com/file/d/0B31-NQeMvxfqSTFTcFNiY1J5VEE/view?usp=sharing)
 - [Five Nights at Freddys 4](https://drive.google.com/file/d/0B3UqtAb3iqEiUTd1Z3J4bV9vM1E/view?usp=sharing)
 - [Five Nights at Freddys: Sister Location](https://drive.google.com/file/d/1fe7lRYUed41rEim3aB_ml528_IwG11Pc/view?usp=sharing)
-- Super Mario 127 DEMO - Requires reupload
 - [Undertale](https://drive.google.com/file/d/1LC_fXXNNnBBFRujE5N-9Mltxjz19JKaR/view?usp=sharing)
 - [Undertale Bits N' Pieces Ver. 4.2.1](https://drive.google.com/file/d/1sAm960jzA2HDEMtUmriqz3Aw7hlnuW59/view?usp=sharing)
 - [Deltarune Chapters 1 & 2](https://drive.google.com/file/d/1yFsY7I5qujqRLUwz-xroA60xy-PVmOem/view?usp=sharing)
@@ -102,6 +101,7 @@
 - [Crash Bandicoot](https://drive.google.com/file/d/1EqXIy3jbtyQpQpVlSOVN2pBQu40EGRQT/view?usp=sharing)
 - [Castlevania: Symphony of the Night](https://drive.google.com/file/d/1GJhqmmygSHX30DEQfYRgLObyN_R46FQ4/view?usp=sharing)
 - [METAL GEAR SOLID](https://drive.google.com/file/d/1m3J2d9hLTlIy6dD9942bsxKC1wbui5KS/view?usp=sharing)
+- [Spider-Man](https://drive.google.com/file/d/1KChBEKZj6W7D-7ndPeDcprF9rkoPukbd/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
