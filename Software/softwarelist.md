@@ -102,6 +102,7 @@
 - [Castlevania: Symphony of the Night](https://drive.google.com/file/d/1GJhqmmygSHX30DEQfYRgLObyN_R46FQ4/view?usp=sharing)
 - [METAL GEAR SOLID](https://drive.google.com/file/d/1m3J2d9hLTlIy6dD9942bsxKC1wbui5KS/view?usp=sharing)
 - [Spider-Man](https://drive.google.com/file/d/1KChBEKZj6W7D-7ndPeDcprF9rkoPukbd/view?usp=sharing)
+- [MegaMan X4](https://drive.google.com/file/d/1eQil8GHRBeGOhbpUWlPUPZl7r8PY15DZ/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
