@@ -1,6 +1,6 @@
 # Patch Notes
 
-##1/31/22
+## 1/31/22
 
 - Added Untitled Goose Game
 
