@@ -1,5 +1,9 @@
 # Patch Notes
 
+##1/31/22
+
+- Added Untitled Goose Game
+
 ## 1/27/22
 
 - Added the original Star Wars trilogy
