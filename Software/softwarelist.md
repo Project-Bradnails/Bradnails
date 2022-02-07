@@ -7,7 +7,7 @@
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
 - [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
-- [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view?usp=sharing)
+- [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
 - [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing) (NOTE: Game is under Geometry_Dash/steamapps/common in the files)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
 - [Hollow Knight](https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ)
