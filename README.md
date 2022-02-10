@@ -8,7 +8,6 @@ Planned additions
 - Hades
 - Stardew Valley
 - Shawshank Redemption
-- Star Wars Original Trilogy
 - Sonic Robo Blast 2
 - Super Metroid
 - Metroid Prime
