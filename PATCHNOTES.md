@@ -1,5 +1,12 @@
 # Patch Notes
 
+## 2/10/22
+
+- Added PCSX2
+- Added God of War (original version)
+- Added GTA: San Andreas
+- Added Metal Gear Solid 2
+
 ## 1/31/22
 
 - Added Untitled Goose Game
