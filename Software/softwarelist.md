@@ -54,7 +54,7 @@
 - [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
 - [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
 - [DuckStation](https://drive.google.com/file/d/1Pqx2rV6syekQkEl_GwRgXW6fOOf_tMZB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#duckstation))
-- [PCSX2](https://drive.google.com/file/d/1ixdisLIWGhzFvbGEAjw8CS0i8xF3U7Xp/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#pcsx2))
+- [PCSX2](https://drive.google.com/file/d/1ixdisLIWGhzFvbGEAjw8CS0i8xF3U7Xp/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#pcsx2))
 
 
 
