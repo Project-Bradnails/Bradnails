@@ -49,11 +49,14 @@
 
 # EMULATORS
 
-- [DuckStation](https://drive.google.com/file/d/1Pqx2rV6syekQkEl_GwRgXW6fOOf_tMZB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#duckstation))
 - [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
 - [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
-- [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
 - [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
+- [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
+- [DuckStation](https://drive.google.com/file/d/1Pqx2rV6syekQkEl_GwRgXW6fOOf_tMZB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#duckstation))
+- [PCSX2](https://drive.google.com/file/d/1ixdisLIWGhzFvbGEAjw8CS0i8xF3U7Xp/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#pcsx2))
+
+
 
 # ROMs
 ## Nintendo
@@ -104,6 +107,11 @@
 - [METAL GEAR SOLID](https://drive.google.com/file/d/1m3J2d9hLTlIy6dD9942bsxKC1wbui5KS/view?usp=sharing)
 - [Spider-Man](https://drive.google.com/file/d/1KChBEKZj6W7D-7ndPeDcprF9rkoPukbd/view?usp=sharing)
 - [MegaMan X4](https://drive.google.com/file/d/1eQil8GHRBeGOhbpUWlPUPZl7r8PY15DZ/view?usp=sharing)
+
+### PCSX2
+- [Grand Theft Auto: San Andreas](https://drive.google.com/file/d/1L91iiVhSYzTsClE45OnOUPqo3D_pCRz_/view?usp=sharing)
+- [Metal Gear Solid 2: Sons of Liberty](https://drive.google.com/file/d/1BGNndixgoqiIVLA5Grm5xfL3izIwxLxy/view?usp=sharing)
+- [God of War (Original Version)](https://drive.google.com/file/d/1lPZRxRVOiMhzvgAQlFpz8cv8UcaZTZDS/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
