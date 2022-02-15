@@ -112,6 +112,8 @@
 - [Grand Theft Auto: San Andreas](https://drive.google.com/file/d/1L91iiVhSYzTsClE45OnOUPqo3D_pCRz_/view?usp=sharing)
 - [Metal Gear Solid 2: Sons of Liberty](https://drive.google.com/file/d/1BGNndixgoqiIVLA5Grm5xfL3izIwxLxy/view?usp=sharing)
 - [God of War (Original Version)](https://drive.google.com/file/d/1lPZRxRVOiMhzvgAQlFpz8cv8UcaZTZDS/view?usp=sharing)
+- [Spider-Man 2](https://drive.google.com/file/d/1XAcHKNkMZn3f2LzFdv6RftLadr0nJCNV/view?usp=sharing)
+- [The Simpsons: Hit and Run](https://drive.google.com/file/d/103BenMHmuRFlDI0X_GwLAsB4N2ApQ3NJ/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
