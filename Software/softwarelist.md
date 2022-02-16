@@ -4,7 +4,7 @@
 
 # GAMES
 
-- [Project Zomboid](https://drive.google.com/drive/folders/1fAZnwG2VdSctumJNDP8u8WFcVAWZUKhA?usp=sharing)
+- [Project Zomboid](https://drive.google.com/drive/folders/1fAZnwG2VdSctumJNDP8u8WFcVAWZUKhA?usp=sharing)(NOTE:game is currentaly not in the proper fromat for a download DO NOT DOWNLOAD I WILL FIX LATER TODAY)
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
 - [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
