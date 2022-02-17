@@ -23,7 +23,7 @@ Planned additions
 ### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone. To the gatekeepers: please stop. While you may think, Bradnails will get removed if it becomes too popular, we have a contingency plan if this happens. We ask you to spread this as much as possible as that was our original intent. If we made this for select people, we would have kept it private. Thank you for your understanding.**
 
 
-### This repository is the definitive archive for unblocked school content. You can find games, movies, apps and more, all on the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/softwarelist.md) page.
+### This repository is the definitive archive for unblocked school content. You can find games, movies, apps and more, all on the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software_list.md) page.
 This is mainly made for Windows 10 and above machines. Stuff like a Chromebook we can't guarantee. Just so you know, we can't add everything. Not everything runs on a school computer.
 
 ## Installation
