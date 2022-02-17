@@ -27,7 +27,7 @@ Planned additions
 This is mainly made for Windows 10 and above machines. Stuff like a Chromebook we can't guarantee. Just so you know, we can't add everything. Not everything runs on a school computer.
 
 ## Installation
-1. Open game link from the [Games List](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/softwarelist.md)
+1. Open game link from the [Games List](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/software_list.md)
 2. Download from Google Drive
 3. Make a folder, preferably in your main C: drive for your games
 4. If compressed, extract the game (use [7zip portable](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view) for .rar and .7z)
