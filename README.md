@@ -5,15 +5,13 @@
 
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone.**
-
-
-### This repository is the definitive archive for unblocked school content. You can find games, movies, apps and more, all on the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md) page.
 This is mainly made for Windows 10 and above machines. Stuff like a Chromebook we can't guarantee. Just so you know, we can't add everything. Not everything runs on a school computer.
 
 ## Links
 
-#### [Discord](https://discord.gg/tAfDFVMpnB)
-#### [Patch Notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md)
+[Discord](https://discord.gg/tAfDFVMpnB)
+[Patch Notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md)
+[Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md) page.
 
 ## Installation
 1. Open game link from the [Games List](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/software-list.md)
