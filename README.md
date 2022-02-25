@@ -5,7 +5,7 @@
 
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone.**
-Made for Windows 10 school laptops
+###### Made for Windows 10 school laptops
 
 ## Links
 
