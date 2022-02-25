@@ -9,9 +9,9 @@
 
 ## Links
 
-[Discord](https://discord.gg/tAfDFVMpnB)                                              [Patch Notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md)
+[Discord](https://discord.gg/tAfDFVMpnB) - [Patch Notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md)
 
-[Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md)             [Movies List](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
+[Games](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md) - [Movies](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
 
 ## Installation
 1. Open game link from the [Games List](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/software-list.md)
