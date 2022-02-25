@@ -1,6 +1,8 @@
-## For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
 
-#### Report bugs and issues or request games in our [Discord](https://discord.gg/tAfDFVMpnB)
+
+##### For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
+
+
 
 # GAMES
 
