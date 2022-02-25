@@ -15,6 +15,8 @@ This is mainly made for Windows 10 and above machines. Stuff like a Chromebook w
 
 [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md)
 
+[Movies List](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
+
 ## Installation
 1. Open game link from the [Games List](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/software-list.md)
 2. Download from Google Drive
