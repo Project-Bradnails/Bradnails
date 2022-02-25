@@ -5,7 +5,7 @@
 
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone.**
-This is mainly made for Windows 10 and above machines. Stuff like a Chromebook we can't guarantee. Just so you know, we can't add everything. Not everything runs on a school computer.
+Made for Windows 10 school laptops
 
 ## Links
 
