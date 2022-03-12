@@ -32,6 +32,7 @@
 - [Undertale](https://drive.google.com/file/d/1LC_fXXNNnBBFRujE5N-9Mltxjz19JKaR/view?usp=sharing)
 - [Undertale Bits N' Pieces Ver. 4.2.1](https://drive.google.com/file/d/1sAm960jzA2HDEMtUmriqz3Aw7hlnuW59/view?usp=sharing)
 - [Deltarune Chapters 1 & 2](https://drive.google.com/file/d/1yFsY7I5qujqRLUwz-xroA60xy-PVmOem/view?usp=sharing)
+- [Celeste](https://drive.google.com/file/d/1dI5vcIY-Fic8IT1mzvqfDpw4Z9jA1syK/view?usp=sharing)
 - [Plants Vs. Zombies](https://drive.google.com/file/d/1Nc-d7Rtj24Xm_kYceDGZqG8TtHG0Tejv/view?usp=sharing)
 - [Counter Strike 1.6](https://drive.google.com/file/d/1hJZqgVejUJGgWL7FukLRE1D6L6aHNBpd/view?usp=sharing)
 - [Counter Strike Source](https://drive.google.com/file/d/1yxNci8_5ie_eEHqESHRqUGHpnQThZnDX/view?usp=sharing)
