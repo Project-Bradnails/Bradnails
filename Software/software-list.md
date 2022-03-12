@@ -20,9 +20,9 @@
 - [DOOM II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
 - [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
 - [Tetris](https://drive.google.com/file/d/1I6v9nsqHhttABpsb7tQQPG8tWMv17TyA/view?usp=sharing)
-- [Sonic The Hedgehog](https://drive.google.com/file/d/1jg0jJyfP3ycxgtIy8bleOPeET9mhUc9y/view?usp=sharing)
-- [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
-- [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
+- [Sonic The Hedgehog (PC version)](https://drive.google.com/file/d/1jg0jJyfP3ycxgtIy8bleOPeET9mhUc9y/view?usp=sharing)
+- [Sonic The Hedgehog 2 (PC version)](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
+- [Sonic The Hedgehog 3 & Knuckles (PC version)](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 - [Sonic CD](https://drive.google.com/file/d/1vBPzTz_UYyUQWMvAVIvpOBQRqP0Sar1w/view?usp=sharing)
 - [Five Nights at Freddys 1](https://drive.google.com/file/d/1XHomPytyZiKGKOkli5ulu4FSthT6tiah/view?usp=sharing)
 - [Five Nights at Freddys 2](https://drive.google.com/file/d/1lCoKR7FY1Y7qRbzihi5j8wyaXlh3mujw/view?usp=sharing)
@@ -74,7 +74,11 @@
 - [Pokemon Black](https://drive.google.com/file/d/1HC-iX9J0zzIX1kkK13VDmHcHtDw3tMNv/view?usp=sharing)
 - [Pokemon White](https://drive.google.com/file/d/12E_VuR53Dr9qoAum5IR_oSobrVw4fU9T/view?usp=sharing)
 - [Pokemon Star Sapphire](https://drive.google.com/file/d/1nIPwr7qSPaWy2a3L_soNkZY8yp0sjsSo/view?usp=sharing)
+- [Earthbound](https://drive.google.com/file/d/1yVzMfHkjAw78D_K3VcwQzsNVy4eCYIfL/view?usp=sharing)
 - [Super Mario World](https://drive.google.com/file/d/1BFeedRUiYV1WI_ZJ4YswuUYGz0nhz7lW/view?usp=sharing)
+- [Super Mario All Stars](https://drive.google.com/file/d/1Gm9Ln8Gu4QyyO6qKHqPosIxy0Itzgf5L/view?usp=sharing)
+- [Super Mario Kart](https://drive.google.com/file/d/1gMGP10H5nE1l3OXXRTCvy0cE5xKCXGHb/view?usp=sharing)
+- [Zelda: Link to the Past](https://drive.google.com/file/d/13QcdfyOrHJgIEwEFvVZ1bR1h6pWcc8oy/view?usp=sharing)
 - [New Super Mario Bros](https://drive.google.com/file/d/1yryAUdziOflsO3k4-rpLt_5AeFndswg2/view?usp=sharing)
 - [New Super Mario Bros 2](https://drive.google.com/file/d/16rOdDDbSpm8hOamEeeOR0FYir_wtarPL/view?usp=sharing)
 
@@ -103,6 +107,15 @@
 - [The Legend of Zelda: Majora's Mask](https://drive.google.com/file/d/1prpBTZpB8UYMbkQHp9w3j0uQNu3yZKqC/view?usp=sharing)
 
 ## Sega
+### RetroArch
+- [Sonic Classics (Sonic 1, 2, Mean Bean)](https://drive.google.com/file/d/1rG5QO7AqXflxu8CpC63bpZaFb8xas65n/view?usp=sharing)
+- [Sonic the Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1AfOt-FpVHRwBm2hfYYF7jryAIImGwsb4/view?usp=sharing)
+- [Sonic 3D Blast](https://drive.google.com/file/d/1m9JxOHbhEhCDNncqcYHsjYoSSeXyawXq/view?usp=sharing)
+- [Ristar](https://drive.google.com/file/d/1ovaSazKScfK0nzd0PaE-EM1af50qyKcT/view?usp=sharing)
+- [Streets of Rage](https://drive.google.com/file/d/1SBwrr7pVXD8ZH-MsQQbRaBFuJ3zeV9a0/view?usp=sharing)
+- [Streets of Rage 2](https://drive.google.com/file/d/1wvSGECAaf4NsMABtuvTohCMQeLkQEL9F/view?usp=sharing)
+- [Streets of Rage 3](https://drive.google.com/file/d/1tzlmuAFdN8FOUJugQNFblmHC6nXbPB8U/view?usp=sharing)
+
 ### Redream
 - [Marvel Vs Capcom 2](https://drive.google.com/file/d/1Wdjp0Eoh0HUA56LOmyx2Z0db2cWOI0Av/view?usp=sharing)
 - [Sonic Adventure](https://drive.google.com/file/d/1qJYWnCHasTZxB_D3HwVgahyQpytF_csb/view?usp=sharing)
