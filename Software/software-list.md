@@ -86,11 +86,15 @@
 - [Lego Star Wars II](https://drive.google.com/file/d/1X1_UMTvhNXS0NTw1aP6O2s5xeO4JnECq/view?usp=sharing)
 - [Lego Star Wars III](https://drive.google.com/file/d/1JYebQhA1TsWPOcUEp7-Mq82rcKHZNTiV/view?usp=sharing)
 - [LEGO Star Wars: The Complete Saga](https://drive.google.com/file/d/1t0n02DzVtcJyZkQ_qH9HMx7iUhCV83D-/view?usp=sharing)
+- [New Super Mario Bros. Wii](https://drive.google.com/file/d/1WY9pa_hQDnDorDfsdneo3_Zy4qJVgnw2/view?usp=sharing)
 - [Super Mario Galaxy](https://drive.google.com/file/d/1IWJwzpC0-i4K2uA59Wlc4tvmCiGEOX5L/view?usp=sharing)
+- [Super Paper Mario](https://drive.google.com/file/d/14Ygv6Ds58_vDc1wu0SxRBNMaEO5oafBY/view?usp=sharing)
 - [Animal Crossing: City Folk](https://drive.google.com/file/d/1mfn0oCOgJls_ZXJnFlIdtRsj1-G3p9IK/view?usp=sharing)
 - [Super Mario Sunshine](https://drive.google.com/file/d/120B4jN0yQhS0hMJIpCAs_rK8bhII4oD7/view?usp=sharing)
 - [Mario Kart Wii](https://drive.google.com/file/d/11xdaN6Ve-YmDN2g98FMvUz3PcHcA3nhB/view?usp=sharing)
 - [Wii Play](https://drive.google.com/file/d/1Nd78_si62Jn4RdlIAK3xA2Xtbo81G4u0/view?usp=sharing)
+- [Wii Sports](https://drive.google.com/file/d/1fvKJqBWX9fYrrsbcSbyREDyqXhrGbI34/view?usp=sharing)
+- [Rhythm Heaven Fever](https://drive.google.com/file/d/1KfkSIBGcvuAwx_KHtOzUoRlNcudbLuYI/view?usp=sharing)
 
 ### Project64
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
