@@ -116,6 +116,7 @@
 - [METAL GEAR SOLID](https://drive.google.com/file/d/1m3J2d9hLTlIy6dD9942bsxKC1wbui5KS/view?usp=sharing)
 - [Spider-Man](https://drive.google.com/file/d/1KChBEKZj6W7D-7ndPeDcprF9rkoPukbd/view?usp=sharing)
 - [MegaMan X4](https://drive.google.com/file/d/1eQil8GHRBeGOhbpUWlPUPZl7r8PY15DZ/view?usp=sharing)
+- [PaRappa the Rapper](https://drive.google.com/file/d/1jdUIi7L5qARUX5SUYCHge4FOFQ5awymo/view?usp=sharing)
 
 ### PCSX2
 - [Grand Theft Auto: San Andreas](https://drive.google.com/file/d/1L91iiVhSYzTsClE45OnOUPqo3D_pCRz_/view?usp=sharing)
@@ -124,6 +125,7 @@
 - [Spider-Man 2](https://drive.google.com/file/d/1XAcHKNkMZn3f2LzFdv6RftLadr0nJCNV/view?usp=sharing)
 - [The Simpsons: Hit and Run](https://drive.google.com/file/d/103BenMHmuRFlDI0X_GwLAsB4N2ApQ3NJ/view?usp=sharing)
 - [Ultimate Spider-Man: Limited Edition](https://drive.google.com/file/d/1jZPi4SmBnSPhlplnZ5-qb-h5yINwgvsl/view?usp=sharing)
+- [PaRappa the Rapper 2](https://drive.google.com/file/d/1iGDpEOvuy2j6jjzGudPqNqKho8DDoeFY/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
