@@ -39,6 +39,7 @@
 - [Papers Please](https://drive.google.com/file/d/1DMrHW5BwTmZgdQLiyisRrWlBJbfq5CUE/view?usp=sharing)
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
+- [Cave Story (NXEngine-evo)](https://drive.google.com/file/d/1r6MbqweDQcVCsEVXN1Ws7Xuiwb_uP-ZT/view?usp=sharing)
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
 - [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#cuphead)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
