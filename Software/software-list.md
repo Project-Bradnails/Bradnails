@@ -11,7 +11,7 @@
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
 - [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
-- [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
+- [The Binding of Isaac Rebirth](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
 - [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing) (NOTE: Game is under Geometry_Dash/steamapps/common in the files)
 - [MegaHackv5 for Geometry Dash](https://drive.google.com/file/d/1dnJTay_zXvCw-I2ooiEN3-4ffPEut_uk/view?usp=sharing)  (SEE: [What MegaHack Does and How It Works](https://www.youtube.com/watch?v=zJ-s7lvD1j4&t=14s))
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
@@ -20,9 +20,9 @@
 - [DOOM II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
 - [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
 - [Tetris](https://drive.google.com/file/d/1I6v9nsqHhttABpsb7tQQPG8tWMv17TyA/view?usp=sharing)
-- [Sonic The Hedgehog](https://drive.google.com/file/d/1jg0jJyfP3ycxgtIy8bleOPeET9mhUc9y/view?usp=sharing)
-- [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
-- [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
+- [Sonic The Hedgehog (PC version)](https://drive.google.com/file/d/1jg0jJyfP3ycxgtIy8bleOPeET9mhUc9y/view?usp=sharing)
+- [Sonic The Hedgehog 2 (PC version)](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
+- [Sonic The Hedgehog 3 & Knuckles (PC version)](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 - [Sonic CD](https://drive.google.com/file/d/1vBPzTz_UYyUQWMvAVIvpOBQRqP0Sar1w/view?usp=sharing)
 - [Five Nights at Freddys 1](https://drive.google.com/file/d/1XHomPytyZiKGKOkli5ulu4FSthT6tiah/view?usp=sharing)
 - [Five Nights at Freddys 2](https://drive.google.com/file/d/1lCoKR7FY1Y7qRbzihi5j8wyaXlh3mujw/view?usp=sharing)
@@ -31,6 +31,7 @@
 - [Five Nights at Freddys: Sister Location](https://drive.google.com/file/d/1fe7lRYUed41rEim3aB_ml528_IwG11Pc/view?usp=sharing)
 - [Undertale](https://drive.google.com/file/d/1LC_fXXNNnBBFRujE5N-9Mltxjz19JKaR/view?usp=sharing)
 - [Undertale Bits N' Pieces Ver. 4.2.1](https://drive.google.com/file/d/1sAm960jzA2HDEMtUmriqz3Aw7hlnuW59/view?usp=sharing)
+- [Celeste](https://drive.google.com/file/d/1dI5vcIY-Fic8IT1mzvqfDpw4Z9jA1syK/view?usp=sharing) 
 - [Deltarune Chapters 1 & 2](https://drive.google.com/file/d/1yFsY7I5qujqRLUwz-xroA60xy-PVmOem/view?usp=sharing)
 - [Plants Vs. Zombies](https://drive.google.com/file/d/1Nc-d7Rtj24Xm_kYceDGZqG8TtHG0Tejv/view?usp=sharing)
 - [Counter Strike 1.6](https://drive.google.com/file/d/1hJZqgVejUJGgWL7FukLRE1D6L6aHNBpd/view?usp=sharing)
@@ -39,6 +40,7 @@
 - [Papers Please](https://drive.google.com/file/d/1DMrHW5BwTmZgdQLiyisRrWlBJbfq5CUE/view?usp=sharing)
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
+- [Cave Story (NXEngine-evo AKA fullscreen)](https://drive.google.com/file/d/1r6MbqweDQcVCsEVXN1Ws7Xuiwb_uP-ZT/view?usp=sharing)
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
 - [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#cuphead)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
@@ -69,6 +71,10 @@
 - [Pokemon Fire Red](https://drive.google.com/file/d/1MvZJ6CHIJX5CLIDy0c5xPB4j7ewkM1R8/view?usp=sharing)
 - [Pokemon Leaf Green](https://drive.google.com/file/d/1vrpNOFEU8NX_DJJnVAFfeshwOcsxqohu/view?usp=sharing)
 - [Pokemon Emerald](https://drive.google.com/file/d/1oDQj_ro2hSOnRp5nUBiqJIhYzKNXboGe/view?usp=sharing)
+- [Super Mario Bros](https://drive.google.com/file/d/1-3IGC0v-BKXxgiwgHX2gYmLZztszlfcD/view?usp=sharing)
+- [Super Mario Bros: Lost Levels](https://drive.google.com/file/d/1V4JhBGFEaCVPqZlEThg4OTkTUsQCcSpp/view?usp=sharing)
+- [Super Mario Bros 2](https://drive.google.com/file/d/1xx72ThgEvGqBBmeamQrFxAvRTkH-Bbi-/view?usp=sharing)
+- [Super Mario Bros 3](https://drive.google.com/file/d/1QWG5K16TaZ2pJVSVXqR84qoW2XUYxRvF/view?usp=sharing)
 - [Pokemon Sapphire](https://drive.google.com/file/d/1t2vSCd1jZdiSY8feJ-uNBXmkAOJg_2u0/view?usp=sharing)
 - [Pokemon Black](https://drive.google.com/file/d/1HC-iX9J0zzIX1kkK13VDmHcHtDw3tMNv/view?usp=sharing)
 - [Pokemon White](https://drive.google.com/file/d/12E_VuR53Dr9qoAum5IR_oSobrVw4fU9T/view?usp=sharing)
@@ -76,6 +82,11 @@
 - [Super Mario World](https://drive.google.com/file/d/1BFeedRUiYV1WI_ZJ4YswuUYGz0nhz7lW/view?usp=sharing)
 - [New Super Mario Bros](https://drive.google.com/file/d/1yryAUdziOflsO3k4-rpLt_5AeFndswg2/view?usp=sharing)
 - [New Super Mario Bros 2](https://drive.google.com/file/d/16rOdDDbSpm8hOamEeeOR0FYir_wtarPL/view?usp=sharing)
+- [Super Metroid](https://drive.google.com/file/d/1GH-jQxkRUaEAOa64Md9I1HMCb1Rp27ia/view?usp=sharing)
+- [Earthbound](https://drive.google.com/file/d/1yVzMfHkjAw78D_K3VcwQzsNVy4eCYIfL/view?usp=sharing)
+- [Super Mario All Stars](https://drive.google.com/file/d/1Gm9Ln8Gu4QyyO6qKHqPosIxy0Itzgf5L/view?usp=sharing)
+- [Super Mario Kart](https://drive.google.com/file/d/1gMGP10H5nE1l3OXXRTCvy0cE5xKCXGHb/view?usp=sharing)
+- [Zelda: Link to the Past](https://drive.google.com/file/d/13QcdfyOrHJgIEwEFvVZ1bR1h6pWcc8oy/view?usp=sharing)
 
 ### Dolphin
 - [Kirby's Epic Yarn](https://drive.google.com/file/d/1_FCRghMZLUGl6DxfSg-zS6FZRakE7SMz/view?usp=sharing)
@@ -91,6 +102,10 @@
 - [Super Mario Sunshine](https://drive.google.com/file/d/120B4jN0yQhS0hMJIpCAs_rK8bhII4oD7/view?usp=sharing)
 - [Mario Kart Wii](https://drive.google.com/file/d/11xdaN6Ve-YmDN2g98FMvUz3PcHcA3nhB/view?usp=sharing)
 - [Wii Play](https://drive.google.com/file/d/1Nd78_si62Jn4RdlIAK3xA2Xtbo81G4u0/view?usp=sharing)
+- [New Super Mario Bros. Wii](https://drive.google.com/file/d/1WY9pa_hQDnDorDfsdneo3_Zy4qJVgnw2/view?usp=sharing)
+- [New Super Mario Bros. Wii](https://drive.google.com/file/d/1WY9pa_hQDnDorDfsdneo3_Zy4qJVgnw2/view?usp=sharing)
+- [Wii Sports](https://drive.google.com/file/d/1fvKJqBWX9fYrrsbcSbyREDyqXhrGbI34/view?usp=sharing)
+- [Rhythm Heaven Fever](https://drive.google.com/file/d/1KfkSIBGcvuAwx_KHtOzUoRlNcudbLuYI/view?usp=sharing)
 
 ### Project64
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
@@ -103,6 +118,13 @@
 - [Sonic Adventure](https://drive.google.com/file/d/1qJYWnCHasTZxB_D3HwVgahyQpytF_csb/view?usp=sharing)
 - [Sonic Adventure 2](https://drive.google.com/file/d/1uE52bR__rTOWlNPurXcY7YqwYDyZwto2/view?usp=sharing)
 - [Street Fighter III: 3rd Strike](https://drive.google.com/file/d/1jo7wwmComdcDJnlSu6FkLkweMggrwXLl/view?usp=sharing)
+- [Sonic Classics (Sonic 1, 2, Mean Bean)](https://drive.google.com/file/d/1rG5QO7AqXflxu8CpC63bpZaFb8xas65n/view?usp=sharing)
+- [Sonic the Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1AfOt-FpVHRwBm2hfYYF7jryAIImGwsb4/view?usp=sharing)
+- [Sonic 3D Blast](https://drive.google.com/file/d/1m9JxOHbhEhCDNncqcYHsjYoSSeXyawXq/view?usp=sharing)
+- [Ristar](https://drive.google.com/file/d/1ovaSazKScfK0nzd0PaE-EM1af50qyKcT/view?usp=sharing)
+- [Streets of Rage](https://drive.google.com/file/d/1SBwrr7pVXD8ZH-MsQQbRaBFuJ3zeV9a0/view?usp=sharing)
+- [Streets of Rage 2](https://drive.google.com/file/d/1wvSGECAaf4NsMABtuvTohCMQeLkQEL9F/view?usp=sharing)
+- [Streets of Rage 3](https://drive.google.com/file/d/1tzlmuAFdN8FOUJugQNFblmHC6nXbPB8U/view?usp=sharing)
 
 ## Sony
 ### DuckStation
@@ -112,6 +134,7 @@
 - [METAL GEAR SOLID](https://drive.google.com/file/d/1m3J2d9hLTlIy6dD9942bsxKC1wbui5KS/view?usp=sharing)
 - [Spider-Man](https://drive.google.com/file/d/1KChBEKZj6W7D-7ndPeDcprF9rkoPukbd/view?usp=sharing)
 - [MegaMan X4](https://drive.google.com/file/d/1eQil8GHRBeGOhbpUWlPUPZl7r8PY15DZ/view?usp=sharing)
+- [PaRappa the Rapper](https://drive.google.com/file/d/1jdUIi7L5qARUX5SUYCHge4FOFQ5awymo/view?usp=sharing)
 
 ### PCSX2
 - [Grand Theft Auto: San Andreas](https://drive.google.com/file/d/1L91iiVhSYzTsClE45OnOUPqo3D_pCRz_/view?usp=sharing)
@@ -120,6 +143,7 @@
 - [Spider-Man 2](https://drive.google.com/file/d/1XAcHKNkMZn3f2LzFdv6RftLadr0nJCNV/view?usp=sharing)
 - [The Simpsons: Hit and Run](https://drive.google.com/file/d/103BenMHmuRFlDI0X_GwLAsB4N2ApQ3NJ/view?usp=sharing)
 - [Ultimate Spider-Man: Limited Edition](https://drive.google.com/file/d/1jZPi4SmBnSPhlplnZ5-qb-h5yINwgvsl/view?usp=sharing)
+- [PaRappa the Rapper 2](https://drive.google.com/file/d/1iGDpEOvuy2j6jjzGudPqNqKho8DDoeFY/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
