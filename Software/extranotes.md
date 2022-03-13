@@ -41,7 +41,7 @@ Extra notes for software, in case you might need them.
 
 - Once you see that, click extract then choose a destination. The destination is where the unpacked files will be deposited. After unpacking you will have a file folder.
 
-- Note: Originally an anonymous user probided us with a screenshot for the 7z demonstration. They asked for the image to be removed and to note that they are not at all a Bradnails developer or contributor and simply was returning a favor.
+- Note: Originally an anonymous user provided us with a screenshot for the 7z demonstration. They asked for the image to be removed and to note that they are not at all a Bradnails developer or contributor and simply was returning a favor.
 
 ## GEFORCE NOW
 -NOTE: You cannot be on your school wifi or else GeForce NOW cannot connect. If you are at school, connect to a hotspot on your phone.
