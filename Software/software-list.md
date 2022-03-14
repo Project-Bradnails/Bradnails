@@ -53,15 +53,6 @@
 - [The Henry Stickmin Collection](https://drive.google.com/file/d/1ne97OWzZZBzOfxAzLHN1YgBA-cQip6-d/view?usp=sharing)
 - [Untitled Goose Game](https://drive.google.com/file/d/1kfLBjWWRkL2gflLLLy2bdryms1d78jnE/view?usp=sharing)
 
-# EMULATORS
-
-- [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
-- [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
-- [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
-- [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
-- [DuckStation](https://drive.google.com/file/d/1Pqx2rV6syekQkEl_GwRgXW6fOOf_tMZB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#duckstation))
-- [PCSX2](https://drive.google.com/file/d/1ixdisLIWGhzFvbGEAjw8CS0i8xF3U7Xp/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#pcsx2))
-
 
 
 # ROMs
