@@ -31,7 +31,6 @@
 - [Five Nights at Freddys: Sister Location](https://drive.google.com/file/d/1fe7lRYUed41rEim3aB_ml528_IwG11Pc/view?usp=sharing)
 - [Undertale](https://drive.google.com/file/d/1LC_fXXNNnBBFRujE5N-9Mltxjz19JKaR/view?usp=sharing)
 - [Undertale Bits N' Pieces Ver. 4.2.1](https://drive.google.com/file/d/1sAm960jzA2HDEMtUmriqz3Aw7hlnuW59/view?usp=sharing)
-- [Celeste](https://drive.google.com/file/d/1dI5vcIY-Fic8IT1mzvqfDpw4Z9jA1syK/view?usp=sharing) 
 - [Deltarune Chapters 1 & 2](https://drive.google.com/file/d/1yFsY7I5qujqRLUwz-xroA60xy-PVmOem/view?usp=sharing)
 - [Plants Vs. Zombies](https://drive.google.com/file/d/1Nc-d7Rtj24Xm_kYceDGZqG8TtHG0Tejv/view?usp=sharing)
 - [Counter Strike 1.6](https://drive.google.com/file/d/1hJZqgVejUJGgWL7FukLRE1D6L6aHNBpd/view?usp=sharing)
@@ -67,7 +66,8 @@
 
 # ROMs
 ## Nintendo
-### Retroarch
+### [RetroArch](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) 
+##### (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
 - [Pokemon Fire Red](https://drive.google.com/file/d/1MvZJ6CHIJX5CLIDy0c5xPB4j7ewkM1R8/view?usp=sharing)
 - [Pokemon Leaf Green](https://drive.google.com/file/d/1vrpNOFEU8NX_DJJnVAFfeshwOcsxqohu/view?usp=sharing)
 - [Pokemon Emerald](https://drive.google.com/file/d/1oDQj_ro2hSOnRp5nUBiqJIhYzKNXboGe/view?usp=sharing)
@@ -88,7 +88,7 @@
 - [Super Mario Kart](https://drive.google.com/file/d/1gMGP10H5nE1l3OXXRTCvy0cE5xKCXGHb/view?usp=sharing)
 - [Zelda: Link to the Past](https://drive.google.com/file/d/13QcdfyOrHJgIEwEFvVZ1bR1h6pWcc8oy/view?usp=sharing)
 
-### Dolphin
+### [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
 - [Kirby's Epic Yarn](https://drive.google.com/file/d/1_FCRghMZLUGl6DxfSg-zS6FZRakE7SMz/view?usp=sharing)
 - [Kirby's Return to Dream Land](https://drive.google.com/file/d/1YID9HW822ZlliKHbYrjJ85bnFQnVHImn/view?usp=sharing)
 - [Lego Harry Potter](https://drive.google.com/file/d/16tVDOHjue2kJdQWYdxkavzTYF7qzac5S/view?usp=sharing)
@@ -107,19 +107,21 @@
 - [Wii Sports](https://drive.google.com/file/d/1fvKJqBWX9fYrrsbcSbyREDyqXhrGbI34/view?usp=sharing)
 - [Rhythm Heaven Fever](https://drive.google.com/file/d/1KfkSIBGcvuAwx_KHtOzUoRlNcudbLuYI/view?usp=sharing)
 
-### Project64
+### [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
 - [The Legend of Zelda: Ocarina Of Time](https://drive.google.com/file/d/1lGPaHD04DBFhco4mPASmtFm4-l4woIpD/view?usp=sharing)
 - [The Legend of Zelda: Majora's Mask](https://drive.google.com/file/d/1prpBTZpB8UYMbkQHp9w3j0uQNu3yZKqC/view?usp=sharing)
 
 ## Sega
-### Redream
+### [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
 - [Marvel Vs Capcom 2](https://drive.google.com/file/d/1Wdjp0Eoh0HUA56LOmyx2Z0db2cWOI0Av/view?usp=sharing)
 - [Sonic Adventure](https://drive.google.com/file/d/1qJYWnCHasTZxB_D3HwVgahyQpytF_csb/view?usp=sharing)
 - [Sonic Adventure 2](https://drive.google.com/file/d/1uE52bR__rTOWlNPurXcY7YqwYDyZwto2/view?usp=sharing)
 - [Street Fighter III: 3rd Strike](https://drive.google.com/file/d/1jo7wwmComdcDJnlSu6FkLkweMggrwXLl/view?usp=sharing)
+
+### [RetroArch](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) 
+##### (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
 - [Sonic Classics (Sonic 1, 2, Mean Bean)](https://drive.google.com/file/d/1rG5QO7AqXflxu8CpC63bpZaFb8xas65n/view?usp=sharing)
-- [Sonic the Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1AfOt-FpVHRwBm2hfYYF7jryAIImGwsb4/view?usp=sharing)
 - [Sonic 3D Blast](https://drive.google.com/file/d/1m9JxOHbhEhCDNncqcYHsjYoSSeXyawXq/view?usp=sharing)
 - [Ristar](https://drive.google.com/file/d/1ovaSazKScfK0nzd0PaE-EM1af50qyKcT/view?usp=sharing)
 - [Streets of Rage](https://drive.google.com/file/d/1SBwrr7pVXD8ZH-MsQQbRaBFuJ3zeV9a0/view?usp=sharing)
@@ -127,7 +129,8 @@
 - [Streets of Rage 3](https://drive.google.com/file/d/1tzlmuAFdN8FOUJugQNFblmHC6nXbPB8U/view?usp=sharing)
 
 ## Sony
-### DuckStation
+### [DuckStation](https://drive.google.com/file/d/1Pqx2rV6syekQkEl_GwRgXW6fOOf_tMZB/view?usp=sharing) 
+##### (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#duckstation))
 - [Final Fantasy VII](https://drive.google.com/file/d/1sOf4Q3TP-e759wA6LyKMPDc86sYZl4mV/view?usp=sharing)
 - [Crash Bandicoot](https://drive.google.com/file/d/1EqXIy3jbtyQpQpVlSOVN2pBQu40EGRQT/view?usp=sharing)
 - [Castlevania: Symphony of the Night](https://drive.google.com/file/d/1GJhqmmygSHX30DEQfYRgLObyN_R46FQ4/view?usp=sharing)
@@ -136,7 +139,8 @@
 - [MegaMan X4](https://drive.google.com/file/d/1eQil8GHRBeGOhbpUWlPUPZl7r8PY15DZ/view?usp=sharing)
 - [PaRappa the Rapper](https://drive.google.com/file/d/1jdUIi7L5qARUX5SUYCHge4FOFQ5awymo/view?usp=sharing)
 
-### PCSX2
+### [PCSX2](https://drive.google.com/file/d/1ixdisLIWGhzFvbGEAjw8CS0i8xF3U7Xp/view?usp=sharing) 
+##### (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#pcsx2))
 - [Grand Theft Auto: San Andreas](https://drive.google.com/file/d/1L91iiVhSYzTsClE45OnOUPqo3D_pCRz_/view?usp=sharing)
 - [Metal Gear Solid 2: Sons of Liberty](https://drive.google.com/file/d/1BGNndixgoqiIVLA5Grm5xfL3izIwxLxy/view?usp=sharing)
 - [God of War (Original Version)](https://drive.google.com/file/d/1lPZRxRVOiMhzvgAQlFpz8cv8UcaZTZDS/view?usp=sharing)
