@@ -94,7 +94,6 @@
 - [Mario Kart Wii](https://drive.google.com/file/d/11xdaN6Ve-YmDN2g98FMvUz3PcHcA3nhB/view?usp=sharing)
 - [Wii Play](https://drive.google.com/file/d/1Nd78_si62Jn4RdlIAK3xA2Xtbo81G4u0/view?usp=sharing)
 - [New Super Mario Bros. Wii](https://drive.google.com/file/d/1WY9pa_hQDnDorDfsdneo3_Zy4qJVgnw2/view?usp=sharing)
-- [New Super Mario Bros. Wii](https://drive.google.com/file/d/1WY9pa_hQDnDorDfsdneo3_Zy4qJVgnw2/view?usp=sharing)
 - [Wii Sports](https://drive.google.com/file/d/1fvKJqBWX9fYrrsbcSbyREDyqXhrGbI34/view?usp=sharing)
 - [Rhythm Heaven Fever](https://drive.google.com/file/d/1KfkSIBGcvuAwx_KHtOzUoRlNcudbLuYI/view?usp=sharing)
 
