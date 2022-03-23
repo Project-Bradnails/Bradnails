@@ -96,7 +96,7 @@ If you want to take an extra step in being safe, delete both your web history an
 #### Spoodermoon731
 - As the name also states, big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
 #### StanfieldMozart
-- As the name doesn't state, they enjoy the outdoors and seeing the world. That about all there is to them.
+- As the name doesn't state, they enjoy the outdoors and seeing the world. They know a thing or two about coding. That about all there is to them.
 #### Rev2 
 - Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
 #### MunchieMasher
