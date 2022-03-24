@@ -6,7 +6,7 @@
 
 # GAMES
 
-- [Project Zomboid](https://drive.google.com/file/d/1rMGEd-ps7mgGTH8Yi9xc6Fenik7YX0_h/view?usp=sharing) (Note: Now fixed is now a zip file)
+- [Project Zomboid](https://drive.google.com/file/d/1rMGEd-ps7mgGTH8Yi9xc6Fenik7YX0_h/view?usp=sharing) (Note: Gdrive broke will be fied soon)
 - [The Simpsons - Hit and Run (PC version)](https://drive.google.com/file/d/1g6_YcsqPBiqqHFK_wkwzbMRu7e70T0T3/edit)
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
