@@ -144,5 +144,5 @@
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
 - [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#geforce-now))
 - [Paint.net](https://drive.google.com/file/d/1_PdT3q3zeT5gBilUMdqR-BaYgpYfnNG3/view?usp=sharing)
-
+- [Opera GX](https://drive.google.com/file/d/17WnPgHzNxNXazqP2aUlsUfv1fMJR3nW8/view?usp=sharing) IMPORTANT NOTE: THIS DOES NOT ALLOW YOU TO USE A VPN. YOU WILL STILL GET YOUR INTERNET BLOCKED BY TRYING TO USE A VPN.
 
