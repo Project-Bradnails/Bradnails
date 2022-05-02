@@ -36,6 +36,7 @@
 - [Counter Strike 1.6](https://drive.google.com/file/d/1hJZqgVejUJGgWL7FukLRE1D6L6aHNBpd/view?usp=sharing)
 - [Counter Strike Source](https://drive.google.com/file/d/1yxNci8_5ie_eEHqESHRqUGHpnQThZnDX/view?usp=sharing)
 - [Half Life Source](https://drive.google.com/file/d/1Kq0mJaN6AtPYGsHYzV7XV8NmLfl2Wj7u/view?usp=sharing)
+- [Half Life 2](https://drive.google.com/file/d/1cvkY3FNHUkjpkeY_py0ggIf_vE57tlQw/view?usp=sharing)
 - [Papers Please](https://drive.google.com/file/d/1DMrHW5BwTmZgdQLiyisRrWlBJbfq5CUE/view?usp=sharing)
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
@@ -53,6 +54,8 @@
 - [The Henry Stickmin Collection](https://drive.google.com/file/d/1ne97OWzZZBzOfxAzLHN1YgBA-cQip6-d/view?usp=sharing)
 - [Untitled Goose Game](https://drive.google.com/file/d/1kfLBjWWRkL2gflLLLy2bdryms1d78jnE/view?usp=sharing)
 - [A Dance of Fire and Ice (ADOFAI)](https://drive.google.com/file/d/10qHPCn1KHFHJVF8z3mgKT_XaKmOyWOdL/view?usp=sharing)
+- [Far Cry](https://drive.google.com/file/d/1lssQTnaTl9_SzAKJeDl0ScwJuaFNQjED/view?usp=sharing)
+- [Star Wars Battlefront II (original)](https://drive.google.com/file/d/0B6LFuAIkf0qScWRqR1JsUVpsZjA/view?resourcekey=0-F5jKgbqKHIx9NOjZh1BsPQ)
 
 
 
@@ -97,11 +100,18 @@
 - [New Super Mario Bros. Wii](https://drive.google.com/file/d/1WY9pa_hQDnDorDfsdneo3_Zy4qJVgnw2/view?usp=sharing)
 - [Wii Sports](https://drive.google.com/file/d/1fvKJqBWX9fYrrsbcSbyREDyqXhrGbI34/view?usp=sharing)
 - [Rhythm Heaven Fever](https://drive.google.com/file/d/1KfkSIBGcvuAwx_KHtOzUoRlNcudbLuYI/view?usp=sharing)
+- [F-Zero GX](https://drive.google.com/file/d/1VagZbkUoeuA9HXi4rhLA-4EIHDu6cZnW/view?usp=sharing)
+- [Paper Mario: The Thousand Year Door](https://drive.google.com/file/d/1O5D4hDslB0ULqe-dQ9g5k87A2k3UZuJk/view?usp=sharing)
+
 
 ### [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
 - [The Legend of Zelda: Ocarina Of Time](https://drive.google.com/file/d/1lGPaHD04DBFhco4mPASmtFm4-l4woIpD/view?usp=sharing)
 - [The Legend of Zelda: Majora's Mask](https://drive.google.com/file/d/1prpBTZpB8UYMbkQHp9w3j0uQNu3yZKqC/view?usp=sharing)
+- [Mario Kart 64](https://drive.google.com/file/d/16AK0c00IqXS09sHegmaFSn2JAozBrCaY/view?usp=sharing)
+- [Paper Mario](https://drive.google.com/file/d/16AK0c00IqXS09sHegmaFSn2JAozBrCaY/view?usp=sharing)
+- [Star Fox 64](https://drive.google.com/file/d/1zkhLBO-NjqOgFndbtW8cCOkDLpp75cT8/view?usp=sharing)
+- [Yoshi's Story](https://drive.google.com/file/d/1XcqlBa2B3AuiOof2zgimMOaGbzqQCL9O/view?usp=sharing)
 
 ## Sega
 ### [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
@@ -109,10 +119,15 @@
 - [Sonic Adventure](https://drive.google.com/file/d/1qJYWnCHasTZxB_D3HwVgahyQpytF_csb/view?usp=sharing)
 - [Sonic Adventure 2](https://drive.google.com/file/d/1uE52bR__rTOWlNPurXcY7YqwYDyZwto2/view?usp=sharing)
 - [Street Fighter III: 3rd Strike](https://drive.google.com/file/d/1jo7wwmComdcDJnlSu6FkLkweMggrwXLl/view?usp=sharing)
+- [Soul Calibur](https://drive.google.com/file/d/0B6LFuAIkf0qScWRqR1JsUVpsZjA/view?resourcekey=0-F5jKgbqKHIx9NOjZh1BsPQ)
+- [Jet Set Radio](https://drive.google.com/file/d/1VagZbkUoeuA9HXi4rhLA-4EIHDu6cZnW/view?usp=sharing)
+- [Resident Evil 2](https://drive.google.com/file/d/1VagZbkUoeuA9HXi4rhLA-4EIHDu6cZnW/view?usp=sharing)
+- [Street Fighter Alpha 3](https://drive.google.com/file/d/1VagZbkUoeuA9HXi4rhLA-4EIHDu6cZnW/view?usp=sharing)
 
 ### [RetroArch](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) 
 ##### (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
 - [Sonic Classics (Sonic 1, 2, Mean Bean)](https://drive.google.com/file/d/1rG5QO7AqXflxu8CpC63bpZaFb8xas65n/view?usp=sharing)
+- [Metal Sonic Rebooted](https://drive.google.com/file/d/1UdthfKmyY3wtW8B0p9KWkY3szivW34w4/view?usp=sharing)
 - [Sonic 3D Blast](https://drive.google.com/file/d/1m9JxOHbhEhCDNncqcYHsjYoSSeXyawXq/view?usp=sharing)
 - [Ristar](https://drive.google.com/file/d/1ovaSazKScfK0nzd0PaE-EM1af50qyKcT/view?usp=sharing)
 - [Streets of Rage](https://drive.google.com/file/d/1SBwrr7pVXD8ZH-MsQQbRaBFuJ3zeV9a0/view?usp=sharing)
@@ -139,6 +154,7 @@
 - [The Simpsons: Hit and Run](https://drive.google.com/file/d/103BenMHmuRFlDI0X_GwLAsB4N2ApQ3NJ/view?usp=sharing)
 - [Ultimate Spider-Man: Limited Edition](https://drive.google.com/file/d/1jZPi4SmBnSPhlplnZ5-qb-h5yINwgvsl/view?usp=sharing)
 - [PaRappa the Rapper 2](https://drive.google.com/file/d/1iGDpEOvuy2j6jjzGudPqNqKho8DDoeFY/view?usp=sharing)
+- [Kingdom Hearts](https://drive.google.com/file/d/1OB4pSfE0ydzVB3UhUvTOPUehSlKsKa07/view?usp=sharing)
 
 # APPS
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
