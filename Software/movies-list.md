@@ -1,5 +1,13 @@
 # MOVIES
 NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be a very large file. In addition, longer films such as the Spider-Man films may take a long time to load. Patience is key.
+- [The Batman (2022)](https://drive.google.com/file/d/14syVLzUYsgbO4pjEOGEvq4FHFMJwFn1h/view?usp=sharing)
+- [Batman Begins (2005)](https://drive.google.com/file/d/162M1QypBTzjajOi-MqkMz0BdY1IAZN8N/view?usp=sharing)
+- [The Dark Knight (2008)](https://drive.google.com/file/d/1JsicZRkskyhysSL7pnrwzdXBaUNPKliK/view?usp=sharing)
+- [The Dark Knight Rises (2012)](https://drive.google.com/file/d/1Ph96wp6Um-i73jNYHxvMknjbhYzl89EU/view?usp=sharing)
+- [Avengers (2012)](https://drive.google.com/file/d/1fIF26ugv_a7_YEDcFMKmF2oLTE9T-OA5/view?usp=sharing)
+- [Avengers: Age of Ultron (2014)](https://drive.google.com/file/d/1dBJqzUbgjxK0XoCsUGSfzF9Z6kWhWNBP/view?usp=sharing)
+- [Avengers: Infinity War (2018)](https://drive.google.com/file/d/1BsfceoAMnel10oCnw0rIKxrOG4H_JWn4/view?usp=sharing)
+- [Avengers: Endgame (2019)] Coming in the near future!
 - [21 Jump Street](https://drive.google.com/file/d/0B-uFeCO4yCFIV09lcEdSNHptT2c/view?usp=sharing&resourcekey=0-dw10bsyEZaC-069eF9QTAw)
 - [A Dog's Purpose (2017)](https://drive.google.com/file/d/0B-uFeCO4yCFISTFmNlE3akNDbU0/view?usp=sharing&resourcekey=0-RNIEk2RiGAR76Qv_ACNU8g)
 - [Alien (1979)](https://drive.google.com/file/d/0B95Tai8Smi2wZXNFQ29vT19RVkE/view?usp=sharing&resourcekey=0-PmCtCEW7-_z7GmU8JvAheg)
