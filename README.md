@@ -1,7 +1,10 @@
 [![](header.png?raw=true)](https://github.com/Project-Bradnails/Bradnails/blob/main/README.md)
 
 
+## Easter Update Part 1
+#### Hi there! We recently added our delayed Easter update content to Bradnails for you all to enjoy. However, due to various setbacks such as holidays and standardized assessments, some of our update content has been pushed back to a part 2 update. This update is very soon to come and is mainly delayed due to slow download/torrent speeds. You may notice some items labeled as "Coming in the near future!", which refers to the part 2 update. However, there is more coming than just those items. Thank you for your understanding
 
+-Rev2
 
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone.**
