@@ -44,6 +44,7 @@
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
 - [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#cuphead)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
+- Call of Duty: Modern Warfare 2 - Coming in the near future!
 - [Portal 2](https://drive.google.com/file/d/14vypq86t2V3gCMWotiqYYwwVyuVOfv8L/view?usp=sharing)
 - [Getting Over It With Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
 - [Rimworld](https://drive.google.com/file/d/1X-vZUvo_gaDIwbLD4ppBgkhHcwHX12tr/view?usp=sharing)
@@ -57,6 +58,8 @@
 - [Far Cry](https://drive.google.com/file/d/1lssQTnaTl9_SzAKJeDl0ScwJuaFNQjED/view?usp=sharing)
 - Far Cry 2 - Coming in the near future!
 - [Star Wars Battlefront II (original)](https://drive.google.com/file/d/0B6LFuAIkf0qScWRqR1JsUVpsZjA/view?resourcekey=0-F5jKgbqKHIx9NOjZh1BsPQ)
+- NBA 2k22 - Coming in the near future!
+- Fifa 22 - Coming in the near future!
 
 
 
