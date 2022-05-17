@@ -14,7 +14,7 @@ NOTE: When you click a movie, it will open a video window to watch it. You do no
 - [Alien Vs. Predator (2004)](https://drive.google.com/file/d/0Bxpj_oRibJ5kZTlmNTIzRjU4ekU/view?usp=sharing&resourcekey=0-kBSIucVemO3llLrafH-XRQ)
 - [Alien Vs. Predator Requiem (2007)](https://drive.google.com/file/d/0B4MqvPThrYNjZE9sX2wwbkRZbXc/view?usp=sharing&resourcekey=0-6UabtX9aRzTD-5F1bOF9sw)
 - [Assassin's Creed (2017)](https://drive.google.com/file/d/0B-k5_BUVjeQSczRvN1d0VHBFcTg/view?usp=sharing&resourcekey=0-org-X_RxCuw2XYnZnVjv8w)
-- [The Bad Guys (2022)(https://drive.google.com/file/d/1rajZOb0LN9NLIX5ZIW-9dgYhs-oluvcW/view?usp=sharing)
+- [The Bad Guys (2022)](https://drive.google.com/file/d/1rajZOb0LN9NLIX5ZIW-9dgYhs-oluvcW/view?usp=sharing)
 - [Forrest Gump (1994)](https://drive.google.com/file/d/0B-uFeCO4yCFIa3hNRDc5eVlBSjQ/view?usp=sharing&resourcekey=0-rOslYKb17fIDWtuiy8P2ag)
 - [Guardian's of the Galaxy Vol.2 (2017)](https://drive.google.com/file/d/0B-uFeCO4yCFIZXNnLUg3cVdiU3M/view?usp=sharing&resourcekey=0-s1hwC6vvc_w-Q2CRrpP08g)
 - [King Kong (2005)](https://drive.google.com/file/d/0By5b6VRVheoWUmNTcEJiOXdJdjQ/view?usp=sharing&resourcekey=0-S6FZYivo19MI9Z4h-ZRrOw)
