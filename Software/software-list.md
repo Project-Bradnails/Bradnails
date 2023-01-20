@@ -1,7 +1,11 @@
 
 
 ##### For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
-
+Note: Not all the games will be on the newest version, sorry
+Yes, you are seeing this right, bradnails is getting an update! Just fixing some broken links. Hopefully bigger updates will be coming soon.
+Plans for the future: add more games and maybe putting this on a website of it's own for if github is blocked.
+- [Portal (NEW!)](https://drive.google.com/file/d/18ShoDa7EXj2Jy_tG-SLwh-Th0k6yfRvG/view?usp=sharing)
+- [Just Shapes and beats (NEW!)](https://drive.google.com/file/d/10_d_Gf_w43qTccdH5T2jKrAVNCKShssX/view?usp=sharing)
 - [Project Zomboid](https://drive.google.com/file/d/1rMGEd-ps7mgGTH8Yi9xc6Fenik7YX0_h/view?usp=sharing) (Note: FIXED)
 - [The Simpsons - Hit and Run (PC version)](https://drive.google.com/file/d/1g6_YcsqPBiqqHFK_wkwzbMRu7e70T0T3/edit)
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
@@ -9,8 +13,9 @@
 - [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
 - [The Binding of Isaac Rebirth](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
 - [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing) (NOTE: Game is under Geometry_Dash/steamapps/common in the files)
-- [MegaHackv5 for Geometry Dash](https://drive.google.com/file/d/1dnJTay_zXvCw-I2ooiEN3-4ffPEut_uk/view?usp=sharing)  (SEE: [What MegaHack Does and How It Works](https://www.youtube.com/watch?v=zJ-s7lvD1j4&t=14s))
+- [MegaHackv5 for Geometry Dash](https://drive.google.com/file/d/1VzcQxund1LIBmHxD4BwHVfzL_zoLLyBY/view?usp=sharing)  (SEE: [What MegaHack Does and How It Works](https://www.youtube.com/watch?v=zJ-s7lvD1j4&t=14s))
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
+- [Hollow Knight]([https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view))
 - [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
 - [DOOM II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
 - [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
@@ -30,7 +35,7 @@
 - [Plants Vs. Zombies](https://drive.google.com/file/d/1Nc-d7Rtj24Xm_kYceDGZqG8TtHG0Tejv/view?usp=sharing)
 - [Counter Strike 1.6](https://drive.google.com/file/d/1hJZqgVejUJGgWL7FukLRE1D6L6aHNBpd/view?usp=sharing)
 - [Counter Strike Source](https://drive.google.com/file/d/1yxNci8_5ie_eEHqESHRqUGHpnQThZnDX/view?usp=sharing)
-- [Half Life Source](https://drive.google.com/file/d/1Kq0mJaN6AtPYGsHYzV7XV8NmLfl2Wj7u/view?usp=sharing)
+- [Half Life Source(will add real half life one later, because half life source sucks)](https://drive.google.com/file/d/1Kq0mJaN6AtPYGsHYzV7XV8NmLfl2Wj7u/view?usp=sharing)
 - [Half Life 2](https://drive.google.com/file/d/1cvkY3FNHUkjpkeY_py0ggIf_vE57tlQw/view?usp=sharing)
 - [Papers Please](https://drive.google.com/file/d/1DMrHW5BwTmZgdQLiyisRrWlBJbfq5CUE/view?usp=sharing)
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
@@ -48,6 +53,7 @@
 - [Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
 - [Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
 - [The Henry Stickmin Collection](https://drive.google.com/file/d/1ne97OWzZZBzOfxAzLHN1YgBA-cQip6-d/view?usp=sharing)
+- [Untitled Goose Game(FIXED)](https://drive.google.com/file/d/1qynvbr9oAAc2OjDCe_f6kA1sVeDsdaDR/view?usp=sharing)
 - [A Dance of Fire and Ice (ADOFAI)](https://drive.google.com/file/d/10qHPCn1KHFHJVF8z3mgKT_XaKmOyWOdL/view?usp=sharing)
 - [Far Cry](https://drive.google.com/file/d/1lssQTnaTl9_SzAKJeDl0ScwJuaFNQjED/view?usp=sharing)
 - Far Cry 2 - Coming in the near future!
