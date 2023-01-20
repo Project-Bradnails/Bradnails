@@ -11,7 +11,6 @@
 - [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing) (NOTE: Game is under Geometry_Dash/steamapps/common in the files)
 - [MegaHackv5 for Geometry Dash](https://drive.google.com/file/d/1dnJTay_zXvCw-I2ooiEN3-4ffPEut_uk/view?usp=sharing)  (SEE: [What MegaHack Does and How It Works](https://www.youtube.com/watch?v=zJ-s7lvD1j4&t=14s))
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
-- [Hollow Knight](https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ)
 - [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
 - [DOOM II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
 - [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
@@ -49,7 +48,6 @@
 - [Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
 - [Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
 - [The Henry Stickmin Collection](https://drive.google.com/file/d/1ne97OWzZZBzOfxAzLHN1YgBA-cQip6-d/view?usp=sharing)
-- [Untitled Goose Game](https://drive.google.com/file/d/1kfLBjWWRkL2gflLLLy2bdryms1d78jnE/view?usp=sharing)
 - [A Dance of Fire and Ice (ADOFAI)](https://drive.google.com/file/d/10qHPCn1KHFHJVF8z3mgKT_XaKmOyWOdL/view?usp=sharing)
 - [Far Cry](https://drive.google.com/file/d/1lssQTnaTl9_SzAKJeDl0ScwJuaFNQjED/view?usp=sharing)
 - Far Cry 2 - Coming in the near future!
