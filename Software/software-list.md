@@ -4,6 +4,8 @@
 Note: Not all the games will be on the newest version, sorry
 Yes, you are seeing this right, bradnails is getting an update! Just fixing some broken links. Hopefully bigger updates will be coming soon.
 Plans for the future: add more games and maybe putting this on a website of it's own for if github is blocked.
+- [Castle Crashers (NEW!)](https://drive.google.com/file/d/10gRmRATX14fYM_Xsq4prhOixlJo-JJQN/view?usp=sharing)
+
 - [Portal (NEW!)](https://drive.google.com/file/d/18ShoDa7EXj2Jy_tG-SLwh-Th0k6yfRvG/view?usp=sharing)
 - [Just Shapes and beats (NEW!)](https://drive.google.com/file/d/10_d_Gf_w43qTccdH5T2jKrAVNCKShssX/view?usp=sharing)
 - [Project Zomboid](https://drive.google.com/file/d/1rMGEd-ps7mgGTH8Yi9xc6Fenik7YX0_h/view?usp=sharing) (Note: FIXED)
