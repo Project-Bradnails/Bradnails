@@ -1,0 +1,76 @@
+/*!
+ * Dark Mode Switch v1.0.1 (https://github.com/coliff/dark-mode-switch)
+ * Copyright 2021 C.Oliff
+ * Licensed under MIT (https://github.com/coliff/dark-mode-switch/blob/main/LICENSE)
+ */
+
+*{
+  background-color: #111 !important;
+  color: #eee;
+  font-family: 'Special Elite', cursive;
+}
+  nav a {
+    color: #ffffff;
+    font-family: 'arial black', arial, sans-serif;
+    padding: 0.5vh;
+    text-decoration: none;
+  
+    background-color: black;
+  }
+
+.bg-black {
+  background-color: #fff !important;
+}
+
+.bg-dark {
+  background-color: #eee !important;
+}
+.nav-home {background-color: black;}
+  
+.nav-my-videos {background-color: black;}
+
+.nav-about-my-channel {background-color: black;}
+
+.nav-my-photoshop {background-color: black;}
+
+.bg-light {
+  color: #eee !important;}
+
+  .btn {
+    color: #eee;
+  }
+
+.bg-white {
+  background-color: #000 !important;
+}
+
+button {
+  background-color:#ffffff;
+  border-color:#23272a;
+}
+
+.content{
+  background-color: #23272a !important;
+
+  margin: auto;
+  min-height: 700px;
+  padding: 50px;
+  width: 80%;
+  
+  
+}
+
+h1 {
+color:#ffffff;
+}
+
+h2 {
+    text-align: center;
+}
+body {
+
+    text-align: center;
+}
+
+.btn-outline-dark{color:#ffffff;border-color:#343a40}
+.btn-outline-dark:hover{color:#3366cc;border-color:#343a40} 
