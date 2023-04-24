@@ -1,7 +1,7 @@
 [![](header.png?raw=true)](https://github.com/Project-Bradnails/Bradnails/blob/main/README.md)
 
 
-## Website update, part one
+## Website Update, PT. 1
 #### Hi There, this is slash! I made a website for bradnails!
 
 -Slash
