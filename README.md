@@ -36,7 +36,7 @@
 8. Click on the game's icon or click run
 
 ## Tips
-- We VERY heavily recommend to always run your games when you have disconnected your internet. This can save both you and us a lot of issues later down the road.
+- We very heavily recommend to always run your games when you have disconnected your internet. This can save both you and us a lot of issues later down the road.
 - We recommend running all your games on a "different desktop." You can do this by pressing Windows + tab and pressing the
 new desktop button. This way if staff is trying to check your computer, they likely will only see your actual work.
 - To access games easier, right click the application create a shortcut. You can drag this shortcut anywhere, making it convenient to access
