@@ -94,8 +94,8 @@ If you want to save game progress, you can keep your saves on a flash drive or s
 If you want to take an extra step in being safe, delete both your web history and your downloaded file history.
 
 ## About The Devs
-#### ////
-- ////
+#### FORMERLY KK
+- Has moved onto further projects, no longer under the same name.
 #### Spoodermoon731
 - As the name also states, big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
 #### StanfieldMozart
