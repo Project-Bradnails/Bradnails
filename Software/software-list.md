@@ -4,6 +4,7 @@
 Note: Not all the games will be on the newest version, sorry
 Yes, you are seeing this right, bradnails is getting an update! Just fixing some broken links. Hopefully bigger updates will be coming soon.
 Plans for the future: add more games and maybe putting this on a website of it's own for if github is blocked.
+- [Old School (NEW!)](https://drive.google.com/file/d/153f7xPy4AtpAwJg_LB7PP0vsqN3X0W8D/view?usp=sharing)   (NOTE: Open Old School.exe.unpacked.exe to start the game.)
 - [Castle Crashers (NEW!)](https://drive.google.com/file/d/10gRmRATX14fYM_Xsq4prhOixlJo-JJQN/view?usp=sharing)
 
 - [Portal (NEW!)](https://drive.google.com/file/d/18ShoDa7EXj2Jy_tG-SLwh-Th0k6yfRvG/view?usp=sharing)
