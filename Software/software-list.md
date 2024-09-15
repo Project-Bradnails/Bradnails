@@ -4,12 +4,13 @@
 Note: Not all the games will be on the newest version, sorry
 Yes, you are seeing this right, bradnails is getting an update! Just fixing some broken links. Hopefully bigger updates will be coming soon.
 Plans for the future: add more games and maybe putting this on a website of it's own for if github is blocked.
-- [Old School (NEW!)](https://drive.google.com/file/d/153f7xPy4AtpAwJg_LB7PP0vsqN3X0W8D/view?usp=sharing)   (NOTE: Open Old School.exe.unpacked.exe to start the game.)
-- [Castle Crashers (NEW!)](https://drive.google.com/file/d/10gRmRATX14fYM_Xsq4prhOixlJo-JJQN/view?usp=sharing)
+- [Hard Time III (NEW!)](https://drive.google.com/file/d/1dElFYeyOld8ueEh6UA7_wRzrCnIJUxTP/view?usp=sharing)
+- [Old School (UPDATE!)](https://drive.google.com/file/d/1StLlijUWp5m02cZHuUTVVhq9Z6lFIaM1/view?usp=sharing)   
+- [Castle Crashers](https://drive.google.com/file/d/10gRmRATX14fYM_Xsq4prhOixlJo-JJQN/view?usp=sharing)
 
-- [Portal (NEW!)](https://drive.google.com/file/d/18ShoDa7EXj2Jy_tG-SLwh-Th0k6yfRvG/view?usp=sharing)
-- [Just Shapes and beats (NEW!)](https://drive.google.com/file/d/10_d_Gf_w43qTccdH5T2jKrAVNCKShssX/view?usp=sharing)
-- [Project Zomboid](https://drive.google.com/file/d/1rMGEd-ps7mgGTH8Yi9xc6Fenik7YX0_h/view?usp=sharing) (Note: FIXED)
+- [Portal](https://drive.google.com/file/d/18ShoDa7EXj2Jy_tG-SLwh-Th0k6yfRvG/view?usp=sharing)
+- [Just Shapes and Beats](https://drive.google.com/file/d/10_d_Gf_w43qTccdH5T2jKrAVNCKShssX/view?usp=sharing)
+- [Project Zomboid](https://drive.google.com/file/d/1rMGEd-ps7mgGTH8Yi9xc6Fenik7YX0_h/view?usp=sharing)
 - [The Simpsons - Hit and Run (PC version)](https://drive.google.com/file/d/1g6_YcsqPBiqqHFK_wkwzbMRu7e70T0T3/edit)
 - [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
@@ -18,7 +19,7 @@ Plans for the future: add more games and maybe putting this on a website of it's
 - [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing) (NOTE: Game is under Geometry_Dash/steamapps/common in the files)
 - [MegaHackv5 for Geometry Dash](https://drive.google.com/file/d/1VzcQxund1LIBmHxD4BwHVfzL_zoLLyBY/view?usp=sharing)  (SEE: [What MegaHack Does and How It Works](https://www.youtube.com/watch?v=zJ-s7lvD1j4&t=14s))
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
-- [Hollow Knight]([https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view))
+- [Hollow Knight](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view)
 - [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
 - [DOOM II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
 - [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
