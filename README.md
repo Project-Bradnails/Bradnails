@@ -6,6 +6,11 @@
 
 -Slash
 
+Hi Guys,
+We are no longer actively managing and checking up on the status of the files on the repository. That means that if a file gets taken down by google, it may not be reuploaded. However, if someone in the community finds a new file, and submits a patch/push request to the code, we will take a look at the file (to make sure it isn't malicious, and then push it to the site. In a way, this project is now in the hands of the community, you guys will determine whether it stays alive, but with the activity we still see even 3 years after the project initially concluded, I am sure that Bradnails will remain a free and accessible souce for all your games and movies.
+
+-Stanfield
+
 ## Info
 ### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone.**
 ###### Made for Windows 10 school laptops
